@@ -2,5 +2,6 @@
   "cssTheme": "Ukiyo",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Inter"
+  "monospaceFontFamily": "Inter",
+  "theme": "system"
 }
