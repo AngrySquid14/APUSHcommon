@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0fd2ac9300063c",
+        "id": "bf25793bcf788b03",
         "type": "tabs",
         "children": [
           {
-            "id": "84406b56adea5b53",
+            "id": "237fe5d1b38858e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Violet's Notes/sigma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "sigma"
             }
           }
         ]
@@ -170,10 +170,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84406b56adea5b53",
+  "active": "237fe5d1b38858e3",
   "lastOpenFiles": [
-    "skibidi ohio rizzler gyat dih suckign and fuckign and sliming.md",
+    "Jack's Notes/sigma.md",
+    "Violet's Notes/sigma.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Welcome.md",
+    "Violet's Notes",
+    "Jack's Notes",
+    "skibidi ohio rizzler gyat dih suckign and fuckign and sliming.md",
     "APUSH Intro notes.md",
     "test.md"
   ]
