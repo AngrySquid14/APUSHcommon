@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Violet's Notes/sigma.md",
+                "file": "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sigma"
+              "title": "Salutary Neglect Lecture"
             }
           }
         ]
@@ -170,12 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "237fe5d1b38858e3",
+  "active": "9d81eefdcc66e181",
   "lastOpenFiles": [
-    "New Text Document.txt",
+    "Jack's Notes/Unit 2",
     "README.md",
+    "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
     "Violet's Notes/sigma.md",
-    "Jack's Notes/sigma.md",
+    "New Text Document.txt",
     "conflict-files-obsidian-git.md",
     "Welcome.md",
     "Violet's Notes",
