@@ -1,0 +1,12 @@
+## Fighting Revivalism in the Carolina Backcountry:
+- Anglican Church -> Old light
+- Baptists -> New light
+- #### Questions:
+	- Woodmason's main concern with the Baptists is that there's a lot of unholy conduct taking place among them.
+		- He says that the only reason people are going to the church meetings is because of the alchohol
+		- ""they are causing there to be more violence, robberies, drunkenness and
+	- His motive is likely that he doesn't want to lose his congregation, who might pay money.
+	- The main issue between the established churches and revivalists is that they have different levels of strictness around conduct
+ - #### Important:
+	 - This reveals social tensions between eastern elites/established churches and southern/backcountry/frontier people.
+		 - Elites on coast look down on people on frontier
