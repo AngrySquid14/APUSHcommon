@@ -24,5 +24,7 @@
 		- Work of God crucial to movement, contrast with Deism
 	- Edwards published an account of the revival of Pietism in Massachusetts called *A Faithful Narrative of the Surprising Work of God* (1737)
 	- Edwards revival of Pietism in Northampton, MA spread throughout the Connecticut River Valley.
+- **What was the notion of a "New Light"?
+	- 
 ###### Religious Upheaval in the North *Pages 121-122 7th ed, 132-133 8th ed*
 ###### Social & Religious Conflict in the South *Pages 123-124 7th ed, 133-134 8th ed*
