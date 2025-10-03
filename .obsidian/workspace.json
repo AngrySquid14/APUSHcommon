@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf25793bcf788b03",
+        "id": "e23702b49e19f39f",
         "type": "tabs",
         "children": [
           {
-            "id": "edf4e2e2eba718e1",
+            "id": "ca0e260a6977debd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 2/Readings/Great Awakening Readings.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Great Awakening Readings"
+              "title": "New tab"
             }
           }
         ]
@@ -150,8 +146,19 @@
               "icon": "lucide-list",
               "title": "Outline of test"
             }
+          },
+          {
+            "id": "152095cdb405c8aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,15 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edf4e2e2eba718e1",
+  "active": "9d81eefdcc66e181",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Jack's Notes/Unit 2/Readings/Great Awakening Readings.md",
+    "conflict-files-obsidian-git.md",
+    "Jack's Notes/Unit 2/Readings/New England's Freehold Society Readings.md",
+    "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
+    "Jack's Notes/Unit 2/UNIT 2 REVIEW.md",
+    "Violet's Notes/Unit 2/Chapter 4 AP Text Topics (Completed).md",
     "Jack's Notes/Unit 2/Great Awakening and Enlightenment.md",
     "Jack's Notes/Unit 2/Readings/Colonial Slavery - Primary Sources.md",
-    "Jack's Notes/Unit 2/Readings/Great Awakening Readings.md",
-    "Jack's Notes/Unit 2/Readings/New England's Freehold Society Readings.md",
     "Jack's Notes/Unit 2/Readings",
-    "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
-    "conflict-files-obsidian-git.md",
     "Violet's Notes/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
     "Violet's Notes/Unit 2/10.1.25 Exam Topics (Chapters 2-4).md",
     "Violet's Notes/Unit 2",

@@ -1,0 +1,65 @@
+# KC 2.1:
+- ### Big ideas:
+	- What were similarities between Spanish, French, Dutch and English?
+	- What were the experiences like with Native Americans with European countries
+	- How and why did slavery evolve in these colonies
+	- How did climate and geography impact British colonies? 
+- ## KC 2.1 - 1:
+	- #### Spain:
+		- Spanish colonizers were significantly more strict
+	- #### French and Dutch:
+		- More trading
+		- French lowk tried to convert but not too hard
+		- Both struggled with getting a large enough population
+	- #### British:
+		- Large number of immigrants
+		- English colonies welcomed colonists from other countries
+		- People wanted:
+			- More wealth
+			- Religious Freedom
+			- Better living conditions
+		- Economy based on Agriculture:
+			- Tobacco
+		- Headright system:
+			- giving land to settlers
+			- was uneven -> bacon's revolution
+		- English colonists wanted to live separate from Natives
+			- -> Powhatan war
+			- -> Metacom's war
+- ## KC 2.1 - 2:
+	- ### Colonies:
+		- #### Chesapeake:
+			- Cash Crops
+				- Tobacco
+			- used up lots of land
+			- Picked up Slave labor
+		- #### New England:
+			- Puritans
+			- yeoman farming
+			- Towns more than 50 families had to build schools
+			- Boston:
+				- Became major port citie
+			- Not large population due to rocky terrain
+		- #### Middle Colonies:
+			- Most diverse demographically
+			- Quakers in Penn
+			- Women in Penn had more rights
+			- Immigrants from Germany
+			- Economy based on Exportation of cereal crop
+		- #### Southern Colonies:
+			- Rice farming in swamps
+			- White laborers didn't want to work in the swamps
+				- -> slave labor
+		- #### West Indies:
+			- Sugar cultivation
+			- Large slave population
+			- gave lots of power to slave owners to prevent uprising
+	- ### Emerging Democratic Governance:
+		- elected legislatures
+	- ### Atlantic Economy:
+		- #### Mercantilism:
+			- European colonies focused on producing products for European mother countries
+			- Shift from artisan work to farming
+		- #### Effects on Natives:
+			- lost land to Europeans
+			- drastic drop in population due to disease
