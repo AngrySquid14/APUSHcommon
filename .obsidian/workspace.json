@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Violet's Notes/Unit 2/Chapter 4 AP Text Topics (Completed).md",
+                "file": "Violet's Notes/Unit 2/10.1.25 Exam Topics (Chapters 2-4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 AP Text Topics (Completed)"
+              "title": "10.1.25 Exam Topics (Chapters 2-4)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -172,9 +173,9 @@
   },
   "active": "b16bbc86dea6e045",
   "lastOpenFiles": [
+    "Violet's Notes/Unit 2/Chapter 4 AP Text Topics (Completed).md",
     "Jack's Notes/Unit 2/New England's Freehold Society Readings.md",
     "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
-    "Violet's Notes/Unit 2/Chapter 4 AP Text Topics (Completed).md",
     "Violet's Notes/Unit 2/10.1.25 Exam Topics (Chapters 2-4).md",
     "Violet's Notes/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
     "Violet's Notes/Unit 2",
