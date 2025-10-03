@@ -1,4 +1,4 @@
-###### The Enlightenment in America *Pages 116-121 7th ed, 127-129 8th ed*
+#### The Enlightenment in America *Pages 116-121 7th ed, 127-129 8th ed*
 - **What 4 fundamental principles were presented by Enlightened thinkers?**
 	- The lawlike order of the natural world
 	- The power of human reason
@@ -18,7 +18,7 @@
 		- Rejected divinity of Christ and authority of Bible
 	- "Natural reason" emphasized
 		- Questioned right and wrong, questioned slavery, explored science, etc.
-###### American Pietism & the Great Awakening *Pages 117-121 7th ed, 129-132 8th ed*
+#### American Pietism & the Great Awakening *Pages 117-121 7th ed, 129-132 8th ed*
 - **What did Edwards preach?**
 	- Pietism, a movement emphasizing being pious, emotional worship, and mystical union with God.
 		- Work of God crucial to movement, contrast with Deism
@@ -30,7 +30,7 @@
 	- (more) Progressive ideas, socially and in science
 	- New Lights refer to converts to new light religion as well
 		- Those listening to George Whitefield's emotional sermons caused his audience to feel a "new light" inside of them, restarting their faith/belief in God and religion.
-###### Religious Upheaval in the North *Pages 121-122 7th ed, 132-133 8th ed*
+#### Religious Upheaval in the North *Pages 121-122 7th ed, 132-133 8th ed*
 - **What complaints *and* actions were taken against New Lights by the Old Lights?**
 	- Old Lights thought the New Lights "cryings out fainting and convulsions" were shameful.
 		- Also didn't like the speaking in Tongues and performing Miracles.
@@ -42,7 +42,7 @@
 	- New Lights refuse conservative church doctrines in New Jersey + New York, Dutch Reformed Church splits in two.
 	- Authority of ministers challenged, whose status relied on education and Bible knowledge
 		- With more people valuing conversion experience over Bible knowledge, ministers lost power, deemed equal to regular Christians.
-###### Social & Religious Conflict in the South *Pages 123-124 7th ed, 133-134 8th ed*
+#### Social & Religious Conflict in the South *Pages 123-124 7th ed, 133-134 8th ed*
 - **What was the various appeal/interest toward the Baptists?**
 	- In 1760s, African Americans started being more receptive towards Baptists (Virginia)
 		- Baptist belief that all were equal in God's eyes was large factor
