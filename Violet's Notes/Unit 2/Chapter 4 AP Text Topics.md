@@ -25,6 +25,30 @@
 	- Edwards published an account of the revival of Pietism in Massachusetts called *A Faithful Narrative of the Surprising Work of God* (1737)
 	- Edwards revival of Pietism in Northampton, MA spread throughout the Connecticut River Valley.
 - **What was the notion of a "New Light"?
-	- 
+	- Revival of Christian ideology in American colonies
+	- New ways of thinking about God and religion
+	- (more) Progressive ideas, socially and in science
+	- New Lights refer to converts to new light religion as well
+		- Those listening to George Whitefield's emotional sermons caused his audience to feel a "new light" inside of them, restarting their faith/belief in God and religion.
 ###### Religious Upheaval in the North *Pages 121-122 7th ed, 132-133 8th ed*
+- **What complaints *and* actions were taken against New Lights by the Old Lights?**
+	- Old Lights thought the New Lights "cryings out fainting and convulsions" were shameful.
+		- Also didn't like the speaking in Tongues and performing Miracles.
+	- Disapproval of women's increased rights in revivalist spaces, wanted women to be silent in church
+- **What various challenges were made toward the "established" state-churches?**
+	- New Lights condemned Old Lights for being "unconverted", and formed their own separatist churches
+		- In *New England,* New Lights leave Congregational Church, form 125 separatist churches, support ministers thru voluntary contributions.
+	- Others join Baptist congregations, which condemned government support of churches (state-churches)
+	- New Lights refuse conservative church doctrines in New Jersey + New York, Dutch Reformed Church splits in two.
+	- Authority of ministers challenged, whose status relied on education and Bible knowledge
+		- With more people valuing conversion experience over Bible knowledge, ministers lost power, deemed equal to regular Christians.
 ###### Social & Religious Conflict in the South *Pages 123-124 7th ed, 133-134 8th ed*
+- **What was the various appeal/interest toward the Baptists?**
+	- In 1760s, African Americans started being more receptive towards Baptists (Virginia)
+		- Baptist belief that all were equal in God's eyes was large factor
+		- Lead to unique black religious identity, later developing into distinct African American Protestant Christianity.
+	- Baptists threatened gentry authority, ignored/denied social distinctions, all called "brother" or "sister"
+		- Challenged authority in society, but didn't overturn it. (Men still had more power)
+	- Condemned planters' lifestyles as "decadent"
+	- Enslaved black people welcome into Baptist churches
+	- Appeal to Black Americans, poor tenant families, and yeomen.
