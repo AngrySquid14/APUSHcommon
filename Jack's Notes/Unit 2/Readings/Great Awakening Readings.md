@@ -10,3 +10,15 @@
  - #### Important:
 	 - This reveals social tensions between eastern elites/established churches and southern/backcountry/frontier people.
 		 - Elites on coast look down on people on frontier
+
+## Sinners in the Hands of an Angry God:
+- #### Questions:
+	- God expresses his anger by:
+		- Not holding you up, and dropping you into hell
+		- He sees you as worthy of nothing but being cast into hell
+		- Treading upon you -> Crushing you
+	- Hell is described like:
+		- A bottomless pit
+		- "" A great furnace of Wrath
+	- He says that you in order to avoid hell, you should join his congregation, and definitely not leave
+	- He employs a great deal of frightening imagery, scaring the audience into listening to what he says. He also points out that some of the people in the congregation might even be sent to hell, and 
