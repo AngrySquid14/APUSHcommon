@@ -1,0 +1,57 @@
+## New England => Puritan Society
+- #### Motivations:
+	- "City upon a hill" (John Winthrop) -> model Christian community
+	- Escaping religious persecution in England
+	- Emphasis on duty to God and community.
+- #### Key Locations:
+	- Mass. Bay Colony
+	- Plymouth
+	- Salem
+	- New Haven, Connecticut
+- #### Puritan Social Order:
+	- Congregationalist churches:
+		- Central institutions
+		- Church was involved in governance
+	- Strict Moral Codes:
+		- Intolerance of dissent
+	- Education promoted to ensure Bible literacy:
+		- Harvard founded 1636
+
+# The Great Awakening:
+- ## Initial Reasons:
+	- People felt religion was dry and dull
+	- Preachers felt people needed to be concerned with inner emotions as opposed to outward religious behavior
+		- More personal, Less performative
+	- People in New England could read and interpret the bible on their own
+		- American Colonies were the most literate society in the world (90% of males, 40% of females)
+		- England literacy averaged 30%
+	- Many religions came with settlers -> hard to enforce religious code
+	- Anglican Church was largely ignored
+	- People want to start new with God
+- #### Methodist Preachers go on Evangelical tours:
+	- ##### George Whitefield:
+		- Puritan Minister who used emotional sermons to reach colonists
+		- Preached that good works and godly lives would bring salvation
+		- Forced to give sermons in open areas
+	- ##### Johnathan Edwards:
+		- Puritan preacher during the First Great Awakening
+		- Famous for "Sinners in the Hands of and Angry God"
+		- Preached about sin, God's power, and the need for personal conversion
+- ## Impacts:
+	- Decline of Old light groups:
+		- Quakers, Anglicans, Congregationalists
+	- Increase in Presbyterians, Baptists, Methodists
+	- Foundation of new colleges:
+		- Princeton
+		- Columbia
+		- Brown
+		- Dartmouth
+	- Appeal to African and Native Americans:
+		- There was little racism in the movement
+		- by 1790 most black people were Christians
+		- Women were also given positions of power and respect
+	- Religious Toleration
+		- New protestant movements were very willing to work together
+
+# The Enlightenment:
+- 
