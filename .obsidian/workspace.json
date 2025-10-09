@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "857035eb540ff4ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2f3d29f9995a6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stupid Bitch's Notes/Unit 2/UNIT 2 REVIEW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UNIT 2 REVIEW"
-            }
-          }
-        ]
-      },
-      {
         "id": "377296e5da5656b1",
         "type": "tabs",
         "children": [
@@ -55,8 +35,7 @@
               "title": "PRE-UNIT 2 Test Lecture (8AM) Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,31 +184,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d81eefdcc66e181",
+  "active": "b16bbc86dea6e045",
   "lastOpenFiles": [
-    "Stupid Bitch's Notes/Unit 2/Salutary Neglect Lecture.md",
-    "Stupid Bitch's Notes/Unit 2/Great Awakening and Enlightenment.md",
-    "Stupid Bitch's Notes/Unit 2/Readings/Colonial Slavery - Primary Sources.md",
-    "Stupid Bitch's Notes/Unit 2/Readings/Great Awakening Readings.md",
-    "Stupid Bitch's Notes/Unit 2/Readings/New England's Freehold Society Readings.md",
-    "Stupid Bitch's Notes/Unit 2/UNIT 2 REVIEW.md",
-    "Violet's Notes/Unit 2/10.1.25  Unit 2 (1607-1754) Exam Topics (Chapters 2-4).md",
+    "Violet's Notes/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
     "Violet's Notes/Unit 2/PRE-UNIT 2 Test Lecture (8AM) Notes.md",
+    "Jack's Notes/Unit 2/UNIT 2 REVIEW.md",
+    "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
+    "Jack's Notes/Unit 2/Great Awakening and Enlightenment.md",
+    "Jack's Notes/Unit 2/Readings/Colonial Slavery - Primary Sources.md",
+    "Jack's Notes/Unit 2/Readings/Great Awakening Readings.md",
+    "Jack's Notes/Unit 2/Readings/New England's Freehold Society Readings.md",
+    "Violet's Notes/Unit 2/10.1.25  Unit 2 (1607-1754) Exam Topics (Chapters 2-4).md",
     "README.md",
     "Violet's Notes/Unit 2/APUSH REVIEW Key Concept 2.2 & 2.2,1.md",
     "Violet's Notes/Unit 2/Chapter 4 AP Text Topics (Completed).md",
-    "Violet's Notes/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
     "conflict-files-obsidian-git.md",
-    "Stupid Bitch's Notes/Unit 2/Readings",
+    "Jack's Notes/Unit 2/Readings",
     "Jack's Notes/Unit 2/New England's Freehold Society Readings.md",
     "Violet's Notes/Unit 2",
     "Violet's Notes/Chapter 3 - Creating A British Empire 1660-1750 Notes.md",
     "Violet's Notes/Unit 2 (1607-1754) Notes.md",
     "Jack's Notes/sigma.md",
-    "Stupid Bitch's Notes/Unit 2",
+    "Jack's Notes/Unit 2",
     "Welcome.md",
     "Violet's Notes",
-    "Stupid Bitch's Notes",
+    "Jack's Notes",
     "skibidi ohio rizzler gyat dih suckign and fuckign and sliming.md",
     "APUSH Intro notes.md",
     "test.md"
