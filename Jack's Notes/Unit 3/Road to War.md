@@ -1,0 +1,11 @@
+## Tea Act:
+- #### The Tea Act wasn't a tax on tea:
+	- The tea act was intended to help the East India Company by allowing it to sell it's surplus to the American colonies without import taxes 
+	- Made buying from other sources dumb:
+		- too expensive
+- #### Colonists saw Tea Act as a threat:
+	- Forcing colonists to purchase British Tea
+	- Undercut colonial merchants
+- ### Boston Tea Party:
+	- December 16 - 1773:
+		- dumped 342 chests of tea into water
