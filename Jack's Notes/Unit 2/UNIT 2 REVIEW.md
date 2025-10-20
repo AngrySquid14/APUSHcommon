@@ -38,7 +38,7 @@
 			- yeoman farming
 			- Towns more than 50 families had to build schools
 			- Boston:
-				- Became major port citie
+				- Became major port city
 			- Not large population due to rocky terrain
 		- #### Middle Colonies:
 			- Most diverse demographically
@@ -63,3 +63,24 @@
 		- #### Effects on Natives:
 			- lost land to Europeans
 			- drastic drop in population due to disease
+- ## KC 2.1 - 3:
+	- #### Interactions between natives and Europeans:
+		- fostered accommodation and conflict
+		- Europeans allied with Native groups against opposing native groups:
+			- Metacom's war
+			- Pequot war
+		- British were able to offer goods
+		- French were more tolerant
+		- During French and Indian war almost all natives allied with france
+			- Not Iroqois
+	- #### Imperial and colonial interests often varied
+		- British colonies want to expand - Britain doesn't want them to:
+			- Bacon's rebellion
+			- Navigation Acts
+	- #### British and Native conflicts:
+		- Were caused by competition over land, resources
+		- Lead to military conflicts 
+			- Metacom's war (king philips)
+	- #### Native American resistance:
+		- Pueblo revolt:
+			- Successfully kept Spain out for 12 years
