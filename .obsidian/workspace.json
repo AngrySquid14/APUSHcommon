@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b16bbc86dea6e045",
+            "id": "f2c77684569fd3a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Violet's Notes/Unit 2/PRE-UNIT 2 Test Lecture (8AM) Notes.md",
+                "file": "10.20.25 Issues of Governing, etc. Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE-UNIT 2 Test Lecture (8AM) Notes"
-            }
-          },
-          {
-            "id": "81ab28d52642827c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/Unit 3/10.9.25 Significance of the French and Indian War.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.9.25 Significance of the French and Indian War"
-            }
-          },
-          {
-            "id": "5c815b3914b958da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/Unit 3/10.13.25 Taxes - Colonial Resistance Presentation Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.13.25 Taxes - Colonial Resistance Presentation Notes"
-            }
-          },
-          {
-            "id": "c195769ec8f0b045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/Unit 3/10.14.25 Road to War Notes KNOW Cause & Effect Significance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.14.25 Road to War Notes KNOW Cause & Effect Significance"
-            }
-          },
-          {
-            "id": "d294033b55bdc49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/Unit 2/PRE-UNIT 2 Test Lecture (8AM) Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PRE-UNIT 2 Test Lecture (8AM) Notes"
+              "title": "10.20.25 Issues of Governing, etc. Notes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -227,14 +171,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c195769ec8f0b045",
+  "active": "f2c77684569fd3a2",
   "lastOpenFiles": [
+    "Violet's Notes/Unit 2/PRE-UNIT 2 Test Lecture (8AM) Notes.md",
+    "10.20.25 Issues of Governing, etc. Notes.md",
     "Violet's Notes/Unit 3/10.9.25 Significance of the French and Indian War.md",
-    "Violet's Notes/Unit 3/10.13.25 Taxes - Colonial Resistance Presentation Notes.md",
     "Violet's Notes/Unit 3/10.14.25 Road to War Notes KNOW Cause & Effect Significance.md",
+    "Untitled",
+    "Violet's Notes/Unit 3/10.13.25 Taxes - Colonial Resistance Presentation Notes.md",
     "Violet's Notes/Unit 2/APUSH REVIEW Key Concept 2.2 & 2.2,1.md",
     "Violet's Notes/Unit 3",
-    "Violet's Notes/Unit 2/PRE-UNIT 2 Test Lecture (8AM) Notes.md",
     "Violet's Notes/Unit 2/Chapter 4 AP Text Topics (Completed).md",
     "Violet's Notes/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
     "Jack's Notes/Unit 2/UNIT 2 REVIEW.md",
