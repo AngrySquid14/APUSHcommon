@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "10.29.25 Foreign Policy & Politics in the New Republic Notes"
             }
+          },
+          {
+            "id": "9c3c910c0e8fb44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/U.S. American Indian Policy Presentation Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "U.S. American Indian Policy Presentation Notes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -186,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66e2e3d75c487edc",
+  "active": "9c3c910c0e8fb44a",
   "lastOpenFiles": [
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.24.25 Hamilton's Financial Plan.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.29.25 Foreign Policy & Politics in the New Republic Notes.md",
+    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/U.S. American Indian Policy Presentation Notes.md",
+    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.24.25 Hamilton's Financial Plan.md",
     "Untitled",
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.22.25 Notes.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government",
@@ -219,7 +233,6 @@
     "Jack's Notes/Unit 2/Readings/Colonial Slavery - Primary Sources.md",
     "Jack's Notes/Unit 2/Readings/Great Awakening Readings.md",
     "Jack's Notes/Unit 2/Readings/New England's Freehold Society Readings.md",
-    "Violet's Notes/Unit 2/10.1.25  Unit 2 (1607-1754) Exam Topics (Chapters 2-4).md",
     "Jack's Notes/Unit 2/Readings",
     "Violet's Notes/Unit 2",
     "Jack's Notes/Unit 2",
