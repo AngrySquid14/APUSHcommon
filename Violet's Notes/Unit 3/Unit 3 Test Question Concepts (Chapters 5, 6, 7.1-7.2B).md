@@ -52,6 +52,11 @@
 ### Concerns of the Constitution - Origins, Reactions & Divisions?
 - Anti-Federalists: push for Bill of Rights b/c concerned over *individual rights* being at risk 
 	- Federalists grand this wish, BoR added to Constitution
+- **Great Compromise**
+- **3/5ths Compromise**
+- **Electoral college*
+	- Gov. doesn't trust general public to vote good
+	- People elect electors to vote for them in electoral college
 ### Regional Factions-Origins "Back Country", Urban/Rural, North vs. South
 - Slavery debate
 - 3/5ths compromise
