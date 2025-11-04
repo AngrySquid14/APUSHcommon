@@ -1,0 +1,140 @@
+## Review 3.1 (~ Chap. 5):
+- #### How did the 7 Years' War alter the relationship between the British and colonists?
+	- **Causes of War:**
+		- Expansion of British colonists into Interior of NA (Ohio Valley)
+	- **Results:**
+		- French govt. was removed from NA
+		- British Colonists wanted to expand on to native land
+		- **Pontiac's Rebellion (P):**
+			- Natives against Colonists
+			- -> Proclamation line of 1763 (P):
+				- No settling past Appalachians, if you did you have to come back
+	- **Impacts of French + Indian War:**
+		- Britain gained lots of land in NA
+		- Britain became in debt from war:
+			- Lead to increased desire to profit off of colonies
+				- **Lots of Taxes**:
+					- Sugar Act (1764)
+					- Stamp Act (1765)
+						- **Stamp Act Congress:**
+							- Colonists organize formal boycott
+							- Boycott is successful -> Stamp Act is repealed
+							- Declaratory Act in response (British can tax whenever)
+			- **End of Salutary Neglect (E)**
+- #### What arguments did colonists use to resist Britain's actions after the war?
+	- **Causes of united colonists against British:**
+		- British Taxes without parliament representation
+			- Colonists were okay with Taxes if they got representation
+		- Colonists successfully boycotted taxes (Stamp, Townshend) and developed more resolve in fighting
+			- Stamp Act Congress to fight Stamp.
+			- Homespun movement to fight Townshend
+	- **Colonial Justifications for Resistance/Independence:**
+		- Saw themselves as British subjects -> British law should apply to them -> they should get reps
+		- Many saw issues with rights of individuals -> taxation, writs of assistance, admiralty courts
+		- **Enlightenment Ideas:**
+			- Consent of the Governed
+			- John Locke Basic Human Rights -> "Life, Liberty, and Property"
+		- Local traditions of self rule in many parts of colonies
+	- **Leaders in the Independence Movement:**
+		- Paul Revere and John Hancock:
+			- Wealthy merchants
+			- Protested taxation
+		- **Ben Franklin:**
+			- Argued America contributed a lot to 7 Years War
+			- Co-Writer of Dec. of Independence
+			- Gained support of France during War
+		- Grassroots Movements:
+			- Laborers
+			- Artisans
+			- Women
+		- Patriot Mobilization:
+			- Many men AND women contributed to the war effort
+			- provided financial and material support.
+	- **British advantages/American disadvantages:**
+		- British:
+			- Loyalist opposition (20%)
+			- Bigger military and more money
+		- American:
+			- Home turf advantage
+			- Strong leaders -> George Washington
+			- Commitment to the cause
+			- Foreign Aid -> France after Saratoga
+- #### SAQ Practice:
+	- **After 1763 Britain began to consolidate its control of the British Colonies:**
+	- Briefly explain reason of the consolidation:
+		- End of the 7 Years War -> B. was in debt, needed a source of rev.
+	- Briefly explain one British action taken between 1763 an 1776
+		- Stamp Act -> taxed many paper products to A. -> impacted magazines, lawyers
+	- Briefly explain one reaction by the colonists to the action described in part B
+		- Stamp Act Congress -> organized boycotts, got it repealed
+## Review 3.2 (~ Chap. 6):
+- #### How did Enlightenment Ideas Help lead to the the American Revolution?
+	- **Impact of Enlightenment on American political thinkers:**
+		- Individual talent over hereditary priv. -> Primogeniture outlawed in many states
+		- Religion helps contribute to many Americans viewing themselves as blessed with Liberty
+	- **Thomas Paine and the Declaration:**
+		- T-Paine's Common Sense:
+			- Challenged KGIII -> said its common sense for American people to break away from monarch
+			- Little island shouldn't/couldn't rule a larger continent
+		- Declaration of Independence:
+			- **Inspired by Enlightenment Ideas:**
+				- John Locke and Thomas Paine
+				- All men had natural rights -> "Life, liberty, and pursuit of Happiness"
+	- **Push for Equality During + After Rev. War:**
+		- Penn's Gradual Abolition Law:
+			- Prohibited import of slaves into PA
+			- ALL children born in PA would be free (slave status of parents doesn't matter)
+			- Model for other Northern states
+		- Increased Calls for greater democracy:
+			- Abigail Adams' "Remember the Ladies"
+			- Judith Sargent Murry -> Education for women
+	- **Republican Motherhood:**
+		- Women expected to raise republican children:
+			- rights of people
+			- value of hard work
+		- Increased educational opportunities for women
+	- **American Rev. Inspired Revolutions around the world:
+		- French Rev.
+		- Haiti -> Toussaint L'Ouverture helped Haiti gain independence
+		- Many in Latin America
+- #### How was the Constitution able to pass in light of conflicting interests?
+	- **Politics of state constitutions:**
+		- Feared strong centralized power
+		- Articles and state constitutions had strong legislative branches
+		- Property requirements for voting and citizenship -> fear of masses
+	- **Challenges Under the Articles:**
+		- Trade between states was difficult:
+			- States could tax ea/o
+			- States could make their own currencies
+		- Many states had debt from Rev. War
+			- Increased taxes
+			- **Fed. govt. couldn't pass taxes**
+		- Foreign Relations
+			- Britain refused treaties with US
+			- Congress couldn't control commerce -> couldn't fight back against Britain
+			- Spain and Britain supplied Natives with Weapons
+		- **End of the Articles:**
+			- Shays' Rebellion:
+				- MA farmers demanded debt relief -> attacked courts and prisons
+				- Federal Govt. unable to stop rebellion -> no real military
+	- **The Constitution:**
+		- Created a stronger centralized govt.
+		- Federalism -> division of power between state and federal govts.
+		- **Constitutional Compromises:**
+			- Great Compromise:
+				- Combined VA plan and NJ plan
+				- VA -> state votes = population
+				- NJ -> state votes = equal for all states
+				- Census taken every 10 years to determine population
+			- 3/5 Compromise:
+				- South wanted enslaved population to count towards their total population
+				- decided that 3/5 of slaves would count towards represented population
+		- **Ratification:**
+			- Federalists liked, Anti-Federalists didn't
+			- **Federalist Papers** -> Hamilton, Madison, Jay -> written to advocate the ratification of the constitution
+			- **Why was it ratified?** -> Federalists promised to add Bill of Rights:
+				- Protected individual rights
+				- Restricted powers of Federal Govt.
+
+## Review 3.3 (~ Chap. 7):
+- 
