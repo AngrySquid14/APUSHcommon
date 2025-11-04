@@ -59,13 +59,25 @@
 	- People elect electors to vote for them in electoral college
 ### Regional Factions-Origins "Back Country", Urban/Rural, North vs. South
 - Slavery debate
-- 3/5ths compromise
+- 3/5ths compromise??
+- Elite Northerners vs Working class Southerners
 ### French Revolution-Debates/Support?
 - Hoity-toity elitists like Hamilton are Not in support of Fr. Rev. because obvious reasons (Federalists are more wealthy, aristocrats)
 - Thomas Jefferson and REPUBLICANS are in support of Fr. Rev. because liberty??? (Republicans are moreso working class)
 - *This difference in opinion led to increased party politics + ideological divisions*
 ### Alien and Sedition Acts-Relevance?
-### European Conflicts - U.S. Role/Policies, Impact? (**Pickney's Treaty**) (NOT EVEN ON THE TEST BRO)
+### European Conflicts - U.S. Role/Policies, Impact? (**Pinckney's Treaty**) (NOT EVEN ON THE TEST BRO)
+- **Pinckney's Treaty** *(Treaty of San Lorenzo)* (1795)
+	- Resolved **border disputes**, especially regarding the Southern boundary of the U.S.
+	- Prevented future tensions over U.S. expansion
+	- Established lasting *peaceful* relationship between Spain (Spanish territories like *Louisiana*) and the U.S.
+		- Allowed Americans on **Mississippi River** freely, as permitted by Spain (*Navigation Rights*)
+			- This enabled *significantly* more economic opportunities for farmers + merchants
+		- America also gains access to the port of **New Orleans**
+	-  Boosted confidence in U.S. government under *Washington*
+		- Washington's diplomacy highlighted
+	- Ability to expand critical in early years of Am.
+	- Long-term impacts on future treaties w/ Spain
 
 ### George Washington Farewell Address - Message and Relevance? (see Hand-Out)
 *Set precedent for 2 terms for presidents*
