@@ -77,14 +77,49 @@ Pontiac's Rebellion
 - Feared strong centralized power (Britain)
 - Articles and state constitutions had strong legislative branches
 - Property requirements for voting and citizenship - fear of the masses
-- Internal Unrest?
-	- Shays' Rebellion
-- Finances
-- Foreign Relations
-
+- **Challenges under the articles:**
+	- Internal Unrest?
+		- Shays' Rebellion
+			- Attack courthouses, demand debt relief
+	- Trade: each state able to place tariffs on goods from other states -> discouraged trade between state
+	- Finances: each state could coin their own $, discouraged trade?
+	- Foreign Relations
+		- Britain, refused commercial treaties w/ US, congress couldn't control commerce (sanctions against Britain)
+		- Spain - cut off access to Mississippi river
+		- Both countries supplied natives with military goods??
+#### Constitution created a limited government that embodies federalism and separation of powers
+- **Federalism**: division of power between state and federal governments
+	- Specific powers for both the state and federal govs.
+- **Constitutional compromises**:
+	- Great Compromise
+		- Combine VA and NJ plan
+			- 2 reps each in senate, Reps based on population in House of Representatives
+	- 3/5ths Compromise
+		- When counting populations, African slaves were worth 3/5th of a white man
+	- ***Both compromises settled the issue of REPRESENTATION***
+#### Ratification of the Constitution
+- Federalists vs anti-Federalists
+	- *Federalist Papers* help turned tide in favor of Constitution
+		- Written in favor of making constitution by Hamilton, Jay, Etc.
+#### Washington's (and Adams') traditions
+- 2-term limit tradition (until 22nd amendment (way later))
+- Creation of the cabinet
+- Creation of the Bank of the US (BUS) by Alexander Hamilton
+#### Federalists and Republicans
+- **Federalists** - stronger federal/national government
+- **Democratic** -Republicans - favor small gov
+	- VA and KY Resolutions - belief that states could nullify federal laws
+- **Economic policy**:
+	- Hamilton's financial plan would strengthen federal government??
+#### Slavery?
+- ANtislavery sentiment beginning to grow in the North
+- Emergence of sectional attitudes towards slavery
+	-  South's transisition from "a necessary evil" to "a positive good"
+	- 
 ### Test Tips:
 - **Multiple-Choice and Short Answer Q's**:
 	- 7 Years' War and its impacts on Native Americans
 	- Impacts of the 7 Years' War (End of salutary neglect)
 - **Essay Questions**:
 	- Political, social, and economic causes of the Revolutionary War
+

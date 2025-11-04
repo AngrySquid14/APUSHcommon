@@ -183,3 +183,4 @@
 ### Federalists vs. Democratic Republicans: Disagree/Agree on the issues?
 - Agree on treatment of natives (eg. FUCK THEM lollll)
 - Disagree on like, everything else
+![[Pasted image 20251104090740.png]]
