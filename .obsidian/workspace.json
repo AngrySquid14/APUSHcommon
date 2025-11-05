@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Jack's Notes/Unit 3/UNIT 3 REVIEW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "UNIT 3 REVIEW"
             }
           }
         ],
@@ -235,14 +235,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
   "active": "077c4add4659aea0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
+    "Timeline data.md",
+    "Jack's Notes/Unit 3/Timeline Test.md",
     "Jack's Notes/Unit 3/UNIT 3 REVIEW.md",
+    "Jack's Notes/Unit 3/George Washington's Farewell Address.md",
+    "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776/10.13.25 Taxes - Colonial Resistance Presentation Notes.md",
+    "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776/10.9.25 Significance of the French and Indian War.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/U.S. American Indian Policy Presentation Notes.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.29.25 Foreign Policy & Politics in the New Republic Notes.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.24.25 Hamilton's Financial Plan.md",
@@ -253,11 +260,8 @@
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.22.25 Notes.md",
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.20.25 Issues of Governing, etc. Notes.md",
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments",
-    "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776/10.9.25 Significance of the French and Indian War.md",
     "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776/10.14.25 Road to War Notes KNOW Cause & Effect Significance.md",
-    "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776/10.13.25 Taxes - Colonial Resistance Presentation Notes.md",
     "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776",
-    "Jack's Notes/Unit 3/George Washington's Farewell Address.md",
     "Jack's Notes/Unit 2/Great Awakening and Enlightenment.md",
     "Violet's Notes/Unit 3/10.9.25 Significance of the French and Indian War.md",
     "Violet's Notes/Unit 3/10.14.25 Road to War Notes KNOW Cause & Effect Significance.md",
@@ -268,8 +272,6 @@
     "Violet's Notes/Unit 2/10.1.25  Unit 2 (1607-1754) Exam Topics (Chapters 2-4).md",
     "Jack's Notes/Unit 2/UNIT 2 REVIEW.md",
     "Jack's Notes/Unit 2/Pre-Test Lecture.md",
-    "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
-    "Jack's Notes/Unit 3/Road to War.md",
     "Jack's Notes/Unit 3",
     "Untitled.base",
     "Jack's Notes/Unit 2/Readings",

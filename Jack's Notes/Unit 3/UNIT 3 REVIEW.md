@@ -135,6 +135,80 @@
 			- **Why was it ratified?** -> Federalists promised to add Bill of Rights:
 				- Protected individual rights
 				- Restricted powers of Federal Govt.
-
+- #### New American Cultural Elements:
+	- **Institutions and Precedents established by Washington and Adams:**
+		- 2-Term Tradition
+		- establishment of the cabinet
+	- **Hamilton** creates Bank of the US
+	- **Emergence of Political Parties:**
+		- Relationships between states and national govt.
+			- -> Fed. favored stronger Nat. Govt.
+			- -> DR favored weaker Nat.
+				- Thought states should be able to nullify national rulings
+		- Economic Policy -> Hamilton's Financial Plan:
+			- Created arguments in govt
+			- Fed. felt loose interpretation of the Constitution is better
+			- DR thought strict interpretation is better
+			- **Capitol is placed on the Potomac**
+		- French Rev:
+			- Federalists supported GB -> thought that France was out of controlled
+			- DR supported France -> thought right to revolt was good
+			- Citizen Gene Affair, XYZ, Jay's Treaty
+	- **Impacts of the expansion of Slavery:**
+		- Antislavery sentiment takes root in North
+		- Emergence of regional attitudes towards slavery:
+			- South began to say it is good
+	- **Beginnings of National Identity and Culture:**
+		- Presidential portraits 
+		- Literature 
+		- Architecture:
+			- DC is built to be a capitol
+- #### Test Tips:
+	- Issues with Articles of Confederation
+	- *Common Sense*
+	- Constitutional Compromises
+	- Social impacts
 ## Review 3.3 (~ Chap. 7):
-- 
+- #### The Frontier:
+	- **What were achievements of the Northwest Land Ordinance?
+		- Created a process to admit new states**
+		- Guaranteed freedom of Religion and trial by Jury
+		- A portion of land sales went to fund education**
+	- **Native Relations:**
+		- Battle of Falling Timbers:
+			- Lead to Treaty of Greenville
+		- British and Native relationship -> British sold weapons to Natives
+	- **Frontier Cultures:**
+		- Scots-Irish (**Paxton Boys**):
+			- Tended to settle on the frontier
+			- Settled on land without regard for ownership
+			- Displaced Natives
+		- **SHAY'S REBELLION:**
+			- Rebellion of farmers -> demanded end to foreclosures, imprisonment for debt, paper currency
+			- Lead to the end of the Articles of Confederation
+		- Illustrated conflict between rich and poor
+	- **Spain Expanded into California:**
+		- Missions were founded
+		- Many Natives died
+- #### How did foreign policy debates impact America domestically?
+	- **Diplomacy:**
+		- Jay's Treaty 
+			- -> Americans gained compensation for British damaged ships
+			- -> Britain said they'd leave forts in the Americas
+		- Pinckney's Treaty
+			- -> Treaty with Spain
+			- -> US granted navigation rights on Mississippi River
+	- **War between Britain and France:**
+		- Influenced by American Rev. and Enlightenment
+		- Impressment -> by British, Kidnapping American sailors -> making them fight
+		- **Drove political parties:**
+			- DRs supported French -> ideals
+			- Fed. supported Britain -> trade
+		- 
+- #### What was the Message of GW's Farewell Address?
+	- **Warned against two things:**
+		- Political Parties
+		- Permanent Foreign Alliances
+			- on AP test connect to Versailles and NATO
+- #### Test Tips:
+	- Washington's Farewell Address
