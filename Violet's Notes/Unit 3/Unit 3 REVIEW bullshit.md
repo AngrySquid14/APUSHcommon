@@ -122,4 +122,10 @@ Pontiac's Rebellion
 	- Impacts of the 7 Years' War (End of salutary neglect)
 - **Essay Questions**:
 	- Political, social, and economic causes of the Revolutionary War
+### Study Tips
+- go to morning session
+- ask clarifying questions
+- read questions CAREFULLY
+	- take your time
+- 
 
