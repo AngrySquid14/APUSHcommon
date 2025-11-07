@@ -49,6 +49,9 @@
 - Idea that women were important to nurturing the future of America
 	- Women's job to educate and instill **republican ideals** into the youth
 - Significance: women more important in life and society
+- **Educational Impact**
+	- Educational opportunities for women b/c raising next generation requires it
+- 1st step in more liberty for women
 ### Concerns of the Constitution - Origins, Reactions & Divisions?
 - Anti-Federalists: push for Bill of Rights b/c concerned over *individual rights* being at risk 
 	- Federalists grand this wish, BoR added to Constitution
@@ -66,6 +69,9 @@
 - Thomas Jefferson and REPUBLICANS are in support of Fr. Rev. because liberty??? (Republicans are moreso working class)
 - *This difference in opinion led to increased party politics + ideological divisions*
 ### Alien and Sedition Acts-Relevance?
+- Anti-immigrant sentiment
+- John Adams' acts make federalists look bad
+- Factor in Adams(?) losing 1800 election, TJ wins
 ### European Conflicts - U.S. Role/Policies, Impact? (**Pinckney's Treaty**) (NOT EVEN ON THE TEST BRO)
 - **Pinckney's Treaty** *(Treaty of San Lorenzo)* (1795)
 	- Resolved **border disputes**, especially regarding the Southern boundary of the U.S.
@@ -109,14 +115,23 @@
 		- Britain to stop *neutral* (American) ships for having Fr. goods (nay)
 		- Britain to force Am. to pay of *pre-revolutionary war debts* to Br. (nay)
 		- Am. to make claims that Br. were doing illegal searches (yay)
-		- British troops + Indian agents to be kicked out of **NW Territory**
+		- British troops + Native agents to be kicked out of **NW Territory**
+			- **Native Am. Concession**: agree to stop supplying tribes with weapons
+				- Bigger deal for the U.S. than for Britain
 	- ***Senate barely ratified treaty by 2/3 majority***
-- Jay was zipping up Britain's pants after he was done meat riding them
-- Made the federalists (?) look like Britain glazers
-- Thomas Jefferson did NOT fw this!!!
-- Washington also didn't like it btw (trying to be neutral, but Jay's treaty was too much glazing)
+
+- Thomas Jefferson & Republicans did not like it
+- Washington also didn't like it  (trying to be neutral, but Jay's treaty was too much glazing)
 ### Overall Federal Government Indian policies and trends
+- NO guidance in Constitution for how to treat Indian tribes
+- Bribes and threats used to gain Indian treaties
+- Federalists + Republicans agree on Indian policy
 ### Indian Intercourse Act (1790)
+- US cant seize/take Indian land
+	- Indian land must be obtained through a treaty (unfair treaty)
+- Greenville (Ohio), Fort Stanwix (Western New York and Western Pennsylvania(not past Appalachian))
+	- Long term impact of gaining Western NY + PA
+	- exploiting western lands, trying to expand past Appalachian mountains (achieved w/ Greenville treaty)
 ### Treaty of Fort Stanwix (1784)
 - Treaty made by bribing, threatening, and/or using alcohol to get tribal members to give up land in *Western Pennsylvania + New York*
 	- Natives later disavowed this treaty? because it was made under duress?
@@ -143,7 +158,10 @@
 - Took down a lot of forts, in *great lakes region*
 - led to Proclamation Line being made to avoid further native rebellion
 ### Natives need to form alliances?
-- Lost French ally in 7 Years' War, high key cooked from now on
+- Lost French ally in 7 Years' War, need allies
+- Preserve lands from US military forces
+- Northwest Confederacy (North-Ohio) + Creek Confederacy (South)
+	- Formed to resist settlers
 ### British Acts? (Identify: Quartering, Declaratory, Townshend, Quebec)
 - **Sugar Act + Quartering Act**(?) (1764)
 	- 4(?) pence per gallon tax on French molasses
@@ -195,8 +213,9 @@
 	- BUT, States have freedom to do trading n shit w/o debt hanging over their heads
 	- Virginia and some states: "bro wtf no we already paid our debt" Hamilton: "damn ok bitch ill just reimburse u damnnnnn"
 ### Impacts of American Revolution on the world?
-- Haitian Revolution
-- French Revolution
+- Inspired worldwide revolutions
+	- Haitian Revolution
+	- French Revolution
 ### Federalists vs. Democratic Republicans: Disagree/Agree on the issues?
 - Agree on treatment of natives (eg. FUCK THEM lollll)
 - Disagree on like, everything else
