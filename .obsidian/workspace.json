@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -172,9 +173,14 @@
   },
   "active": "6b224f6863ee886e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Violet's Notes/Unit 4/Chapter 9/11.18.25 Market-Transportation Revolution.md",
+    "Jack's Notes/Unit 4/The Market Revolution.md",
+    "Jack's Notes/Unit 4/The 1st Wave of Immigration.md",
+    "Jack's Notes/Unit 4/Republican Society Notes.md",
+    "Jack's Notes/Unit 4/African American Communities and the Missouri Compromise.md",
     "11.18.25 Market-Transportation Revolution.md",
     "Violet's Notes/Unit 4/Chapter 8/11.14.25 Missouri Compromise + Monroe Review.md",
-    "Violet's Notes/Unit 4/Chapter 9/11.18.25 Market-Transportation Revolution.md",
     "Violet's Notes/Unit 4/Chapter 7 Part II/11.10.25 The Marshall Court.md",
     "Violet's Notes/Unit 4/Chapter 7 Part II/11.7.25 Jefferson's Foreign Policy.md",
     "Violet's Notes/Unit 4/Chapter 7 Part II/11.12.25 Marshall Defined Indian Policy.md",
@@ -184,7 +190,6 @@
     "Violet's Notes/Unit 4/Chapter 8/James Monroe Administration.md",
     "Violet's Notes/Unit 4/Chapter 9/11.19.25 Immigration.md",
     "Violet's Notes/Unit 4/Chapter 9",
-    "conflict-files-obsidian-git.md",
     "Jack's Notes/Unit 4/The Marshall Court.md",
     "Jack's Notes/Unit 4/Early 1800s politics.md",
     "Violet's Notes/Unit 4/Chapter 8",
@@ -199,12 +204,8 @@
     "Violet's Notes/Unit 3/Unit 3 REVIEW bullshit.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/U.S. American Indian Policy Presentation Notes.md",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.31.25 George Washington's Farewell Address.md",
-    "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.22.25 Notes.md",
     "Violet's Notes/Unit 4/Chapter 7 Part II",
-    "Violet's Notes/Unit 3/Pre-Test Lecture Notes Unit 3.md",
     "Violet's Notes/Unit 4",
-    "Violet's Notes/Unit 3/Unit 3 Test Question Concepts (Chapters 5, 6, 7.1-7.2B).md",
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.31.25 Political Parties REVIEW.md",
     "Pasted image 20251104090740.png",
     "Violet's Notes/Unit 3/Chapter 7 A New Republican Government",
     "Violet's Notes/Unit 3/Chapter 5 Toward Independence 1763-1776",
