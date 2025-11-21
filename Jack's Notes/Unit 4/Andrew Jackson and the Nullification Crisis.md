@@ -1,0 +1,67 @@
+## Andrew Jackson:
+- **War Hero:**
+	- War of 1812 -> Battle New Orleans
+	- (unnecessary technically)
+	- Demolished British forces
+- **Presidency**
+	- Two terms
+	- Wins elections of 1828, 1832
+	- Changes the role of president more than anyone else
+		- Imposed presidential power on the economy
+- **Life:**
+	- From Tennessee
+	- Understands struggles of small farmers in the South
+	- **"The Voice of the Common Man"**
+		- Represented people who weren't rich
+		- Started **Democratic Party**
+		- Won election of 1828 Because
+			- All states removed land-owning as req for suffrage -> **Universal Suffrage**
+			- Was able to capitalize on supporting small farmers who don't own land
+		- Tried to bill his actions as supporting common man, not listening to what they wanted
+
+## The Nullification Crisis:
+- #### Tariffs:
+	- Tax on foreign goods
+	- Raises the price of foreign products
+	- -> theoretically, would boost American industries
+	- **North** -> Favors tariffs -> industry
+	- **South** -> Against tariffs -> consumers/no industry
+- **Northern Arguments -> Tariffs**
+	- Helped US industry grow significantly
+	- Industries were vital to produce war materials -> benefit nation's defense
+	- Profit will provide revenue for US govt.
+- **Southern Arguments -> No Tariffs**
+	- Had to pay higher prices for manufactured goods
+	- Less money sent to Europe -> Less money to buy American cotton
+	- South's income dropped | North's income rose
+- #### Tariff of 1828 **(Tariff of Abominations)**:
+	- Aimed to hurt Pres. JQ Adams
+		- **Passed by south -> blamed on JQ Adams**
+		- Jackson is elected in response to the tariff to protect the South's interest
+	- Intended to reduce foreign competition with American manufacturing
+- **John C. Calhoun:**
+	- Part of Great Triumvirate (Calhoun, Clay, Webster)
+		- Powerful politicians who represented South, West, North
+	- VP under JQ Adams and Jackson
+	- ***The South Carolina Exposition and Protest***:
+		- Written anonymously by JCC
+		- Drew inspo from Virginia and Kentucky Resolutions
+		- Encouraged states to nullify the Tariff of Abominations
+- **The Great Debate** (1830):
+	- Daniel Webster supported Union
+	- criticized cries of secession
+- **Tariff of 1832**:
+	- Lowered Rates from T of 1832
+	- South still thought they were too high
+	- South Carolina calls state convention
+		- **Officially nullifies Tariff of 1832**
+		- Threatens **secession** if DC tries to collect tariffs by force
+- **Henry Clay (The Great Compromiser):**
+	- **Compromise Tariff of 1833**:
+		- Over next 8 years, tariff rates would fall by 10% per year
+		- South favored
+	- **Force Bill**:
+		- Passed the same day as T of 1833
+		- **The POTUS could use military to collect tariffs**
+	- Both Jackson and Calhoun still look good
+	- **Crisis is averted**
