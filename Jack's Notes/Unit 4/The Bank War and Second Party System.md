@@ -1,0 +1,56 @@
+## Reading Qs:
+- "Why does Andrew Jackson oppose the recharter of the second Bank of the United States"
+	- **He opposes it because he believes that it gives the federal govt. too much power, and it makes the rich richer and the powerful more powerful, and this is all because of the wealthy's control of it** 
+- "What positive functions were served by the bank? What were some of the bank's negative consequences?"
+	- **The BUS was beneficial to American govt and industry - created universal currency which improved interstate trade. However, it divided people and could lead to a war between the classes, and didn't benefit all businesses equally**
+- "What should be the proper relationship between finance, business and govt.?"
+	- **I think the proper relationship involves the govt mildly involved with finance and business, but not as much as it was with the BUS
+
+## 2nd party system:
+- New political parties:
+	- Whigs -> Effectively same as Fedsts.
+		- Henry Clay
+	- Democrats -> Effectively same as Anti-Fedsts.
+		- Andrew Jackson
+- **1st Party System:**
+	- Interpretation of Constitution:
+		- Fedsts. -> loose interpretation -> favored Hamilton's plan
+		- Anti-Fedsts. -> strict interpretation -> opposed Hamilton's plan
+ - **Henry Clay's American System**:
+	 - Continuation of the Bank of the US 
+	 - Tariffs
+	 - Funding of Internal Improvements -> Roads, Canals, Infrastructure
+		 - To promote trade, education, transportation
+- **Election of 1824**:
+	- Need 131 of 261 votes to win
+		- JQA 84
+		- H Clay 37
+		- William Crawford 41
+		- Andrew Jackson 99
+	- Passed to House of Representatives (12th Amendment)
+	- Henry Clay forced to back out but -> he's house leader and can control votes
+	- William Crawford has stroke -> backs out
+	- **Clay supports JQA** -> JQA wins -> Adams appoints Clay to be Secretary of State.
+	- **Andrew Jackson ("A corrupt bargain") creates his own party** -> Democrats
+	- Election of 1828 -> AJ sweeps election
+
+## Whigs and Democrats:
+- Democrats disliked the BUS
+- AJ vetoed 3rd BUS in 1832
+- **Whigs formed in response to "King Andrew the 1st"**
+	- Whigs favored the BUS
+	- Thought that AJ was expanding the power of presidency too much
+- **Tariffs:**
+	- 1828, 1832
+		- High rates
+		- SC Exposition and Protest - John C. Calhoun
+	- Compromise Tariff of 1833
+		- lowered rates over 3 years
+		- Yay Henry Clay
+		- Stopped SC from seceding
+- **Federally Funded Internal Improvements:**
+	- Whigs Supported - Democrats opposed
+	- Andrew Jackson Maysville Road Veto
+		- Thought fed. funds shouldn't benefit specific states
+- **Importance of Region in Politics**
+	- Nullification Crisis -> SC and other southern states threatened to secede if Jackson collected tariff of 1832 by force
