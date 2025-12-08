@@ -1,0 +1,78 @@
+# APUSH Review Video #1 - Sectionalism & the American System
+## Sectionalism:
+- North and South became more different economically in 19th century
+	- **South**:
+		- Cotton
+		- Agricultural Staples
+	- **North**:
+		- Manufacturing
+		- Banking
+		- Shipping
+	- Both traded with European markets
+- **Impacts of Cotton on Economy**:
+	- Cotton production in South
+	- Sold to North and Europe
+		- Cotton used in textile factories -> Lowell factory town
+	- Manufacturing in North
+		- -> Reliant on Southern agriculture
+	- **Banking**:
+		- Loans foster growth of industry
+	- **Shipping**:
+		- Northern merchants profited from sale of cotton and international trade
+- **While North Industrializes -> South stays agricultural**
+	- North was reliant on Agriculture
+	- Plantation owners had lots of power
+		- Planter Elite
+		- Minority of population in Southern states
+		- Often defended slavery, "Southern way of life"
+			- **John C. Calhoun**
+## Henry Clay's American System:
+- **Context**:
+	- During early 1800s - US faced challenges
+		- US industries couldn't compete with British
+		- Little infrastructure -> no roads, railroads
+		- 1st BUS expired -> 2nd BUS rechartered in 1816 fro 20 yrs
+	- The goal of the **American System** was to address these issues
+- **AS and the BUS**:
+	- 1st BUS created divisions between Jefferson, Hamilton
+		- Debate over interpretation of Constitution (Strict v Loose)
+	- **McCulloch v. Maryland** -> **ruled BUS was Constitutional**
+		- opposition still existed
+		- Jackson vetoed 3rd BUS
+		- **ALSO** says that congress has implied powers -> favors fed. govt.
+	- Henry Clay advocated for the 3rd BUS -> help stimulate the economy
+	- **Whig Party forms in response to the veto of the BUS**:
+		- Agreed with the Federalist philosophy
+		- Opposed Jackson's actions
+- **AS and Internal Improvements**:
+	- Inter v. Intra state trade:
+		- Interstate -> Between multiple states
+		- Intrastate -> Within a state
+		- **Early on, Congress only provided funding for interstate improvements**
+	- **American System** advocated for federal funds to improve infrastructure
+		- Politicians disapproved:
+			- AJ vetoed the Maysville Road in KY
+			- James Monroe vetoed the Erie Canal
+	- **AS would pay for improvements with Tariffs**
+	- GOVT DIDN'T PAY FOR RAILROADS -> privately funded
+- **AS and Tariffs**:
+	- Tariffs -> Taxes on foreign goods
+	- Would provide rev. for the govt.
+	- would help make American products more appealing
+	- **Tariffs of 1816, 1828, 1832**:
+		- Raised the price of foreign goods
+			- Idea was to help American Industries
+			- Lots of Resistance for 1828 (Tariff of Abominations) and 1832
+				- **Nullification Crisis in SC** -> SC Nullifies the Tariff 1828 and threatens secession if AJ uses force to collect taxes
+				- **Compromise Tariff of 1833** (Henry Clay) -> Lowered rates by 10% each year for 10 years 
+- **Analysis of AS**:
+	- Successes:
+		- North and Midwest more closely linked
+		- Many states built up infrastructure
+		- 1st of Many govt sponsored programs in economy
+		- American Industries were able to prosper
+	- Failures:
+		- Didn't unify all areas of US -> South was left out of benefits
+		- Sectionalism increased
+		- Continued debates abt role of Fed. Govt. in intrastate business
+- **Henry Clay** -> congressman from KY, Speaker of the House for a while, Secretary of State under JQA, Ran for president unsuccessfully, "Compromise King"
