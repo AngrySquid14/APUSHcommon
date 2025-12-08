@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Violet's Notes/Unit 4/Chapter 7 Part II/11.10.25 The Marshall Court.md",
+                "file": "Violet's Notes/Unit 4/Chapter 10/Andrew Jackson Presidency Chart-Jackson Directives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.10.25 The Marshall Court"
-            }
-          },
-          {
-            "id": "78fe67c1a74077e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/Unit 4/12.4.25 Unit 4 Review in class notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.4.25 Unit 4 Review in class notes"
+              "title": "Andrew Jackson Presidency Chart-Jackson Directives"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -186,13 +170,62 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fe67c1a74077e1",
+  "floating": {
+    "id": "3410379d2c769d49",
+    "type": "floating",
+    "children": [
+      {
+        "id": "deae4ff49aeed26b",
+        "type": "window",
+        "children": [
+          {
+            "id": "8f56e9b02ad40a6b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78fe67c1a74077e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Violet's Notes/Unit 4/Unit 4 Review.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unit 4 Review"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 640,
+        "y": 0,
+        "width": 640,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "476f21e079728cd1",
   "lastOpenFiles": [
-    "Violet's Notes/Unit 4/Chapter 7 Part II/11.10.25 The Marshall Court.md",
-    "Violet's Notes/Unit 4/12.4.25 Unit 4 Review in class notes.md",
-    "Violet's Notes/Unit 4/Chapter 9/11.18.25 Market-Transportation Revolution.md",
-    "Violet's Notes/Unit 4/Chapter 11/12.1.25 2nd Great Awakening Presentation Notes.md",
     "Violet's Notes/Unit 4/Unit 4 Review.md",
+    "Violet's Notes/Unit 4/Chapter 10/Andrew Jackson Presidency Chart-Jackson Directives.md",
+    "Violet's Notes/Unit 4/Chapter 10/11.26.25 Jackson, Indian Removal Act Presentation Note.md",
+    "Violet's Notes/Unit 4/Chapter 10/11.24.25 2nd Party System Notes.md",
+    "Violet's Notes/Unit 4/Chapter 10/11.21.25 The Nullification Crisis.md",
+    "Violet's Notes/Unit 4/Chapter 9/11.19.25 Immigration.md",
+    "Violet's Notes/Unit 4/Chapter 9/11.18.25 Market-Transportation Revolution.md",
+    "Violet's Notes/Unit 4/Chapter 8/11.14.25 Missouri Compromise + Monroe Review.md",
+    "Violet's Notes/Unit 4/Chapter 8/James Monroe Administration.md",
+    "Violet's Notes/Unit 4/Chapter 8/11.13.25 Republican Society Guided Q's.md",
+    "Violet's Notes/Unit 4/Chapter 7 Part II/11.12.25 Marshall Defined Indian Policy.md",
+    "Violet's Notes/Unit 4/Chapter 7 Part II/11.10.25 The Marshall Court.md",
+    "Violet's Notes/Unit 4/Chapter 7 Part II/War of 1812 (with Britain).md",
+    "Violet's Notes/Unit 4/12.4.25 Unit 4 Review in class notes.md",
+    "Violet's Notes/Unit 4/Chapter 11/12.1.25 2nd Great Awakening Presentation Notes.md",
     "Violet's Notes/Unit 4/Chapter 12/12.3.25 Slavery Expansion and Arguments.md",
     "Violet's Notes/Unit 4/Chapter 12",
     "Violet's Notes/Unit 4/Chapter 7 Part II/11.7.25 Jefferson's Foreign Policy.md",
@@ -205,16 +238,6 @@
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/Relevant Stuff for Quiz.md",
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.22.25 Notes.md",
     "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.20.25 Issues of Governing, etc. Notes.md",
-    "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/10.21.25 Shays' Rebellion.md",
-    "Violet's Notes/Unit 3/Chapter 6 Making War and Republican Governments/Creating a Constitution.md",
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.24.25 Hamilton's Financial Plan.md",
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.29.25 Foreign Policy & Politics in the New Republic Notes.md",
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/U.S. American Indian Policy Presentation Notes.md",
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.31.25 George Washington's Farewell Address.md",
-    "Violet's Notes/Unit 3/Chapter 7 A New Republican Government/10.31.25 Political Parties REVIEW.md",
-    "Violet's Notes/Unit 4/Chapter 7 Part II/Chapter 7 Review.md",
-    "Violet's Notes/Unit 4/Chapter 7 Part II/War of 1812 (with Britain).md",
-    "Violet's Notes/Unit 4/Chapter 7 Part II/11.12.25 Marshall Defined Indian Policy.md",
     "Violet's Notes/Unit 4/Chapter 11",
     "Violet's Notes/Unit 4/Chapter 10",
     "Resources/Pasted image 20251104090740.png",
