@@ -51,7 +51,7 @@
 	- Daniel Webster supported Union
 	- criticized cries of secession
 - **Tariff of 1832**:
-	- Lowered Rates from T of 1832
+	- Lowered Rates from T of 1828
 	- South still thought they were too high
 	- South Carolina calls state convention
 		- **Officially nullifies Tariff of 1832**

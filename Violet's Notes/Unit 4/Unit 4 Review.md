@@ -14,7 +14,7 @@
 	- More anti-British in comparison to Federalists
 - Favored *small government*
 - Strict interpretation of the constitution
-	- Presidency caused Jefferson to question this, and *switch to a **loose** interpretation.*
+	- Louisiana Purchase caused Jefferson to question this, and *switch to a **loose** interpretation.*
 #### Efforts Made?
 - **Embargo Act** (*1807*)
 	- *Summary*: prohibited ALL foreign commerce, in hopes of stopping Napoleonic wars and boosting American power & respect. Ultimately failed.
@@ -108,7 +108,28 @@
 		- Shipping industries
 ### Transportation/ Market Revolution
 #### Technology?
+- Cotton Gin
+- John Deere farming equipment
+- Interstate Infrastructure
+	- Railroads - Cumberland RR
+	- roads - wilderness road
+	- National road
+- Intrastate Infrastructure
+	- Erie Canal
+- Steamboats
+- Long distance communication (Telegraph)
 #### Regional and Societal Impacts?
+- MASSIVE increased in Urban pop.
+	- Esp. in West + Midwest
+		- Commerce cities => Manufacturing centers (Chicago + St. Louis) and Transit centers (Pittsburgh, Cincinnati, New Orleans)
+	- Towns made around factories
+- In Atlantic Coastal Cities -> Immigration to port cities grew pop.
+- NYC dominates foreign + domestic trade w/ Harbor + Erie Canal
+- South => subsistence farming -> cash-crop farming
+	- Cotton gin => cotton boom, increase slavery?
+		- Cotton more valuable
+- Midwest =>Steel plow benefits farming + animal raising
+- Farming: McCormick Reaper boosts efficiency
 ### American System: (Henry Clay)
 #### Purpose?
 - U.S. industries struggle to compete w/ British goods (post War of 1812)
@@ -207,7 +228,13 @@
 	- American System Ends, 2nd National Bank destroyed
 	- Andrew Jackson wins 1832 election greatly
 #### Jackson's Foundations of Support?
+- Democrats
+- Southerners and those who opposed high tariffs
 #### Jackson's Sources of Opposition?
+- Whigs formed as opposers of Jackson
+	- saw him as a "Tyrant King"
+		- mainly b/c he vetoed bills many times
+- Northerners b/c they wanted more industry and Jackson opposed internal improvements
 #### Jackson's Achievements, Legacy?
 - <u>Indian Removal Act caused 46k Natives to be removed by 1837</u>
 
@@ -278,8 +305,13 @@
 #### Arguments for Slavery
 - John C. Calhoun - "slavery is a positive good"
 #### Cause/Why Arguments for Slavery
+- Its the Southern way
+- Africans are better off as slaves than in Africa
 #### Larger Issues
+- Idea of relocating slaves to Algeria (Africa) Territory
+	- African Americans did not approve of plan
 ## Chapter 12
 ### Slavery Migration
 #### Where?
+- West, Slaves migrate w/ Slavers
 #### Causes? Effects?

@@ -1,4 +1,4 @@
-# Most notes on guided sheet
+ Most notes on guided sheet
 
 ## Agricultural Innovation:
 - **McCormick's Reaper** -> 1845

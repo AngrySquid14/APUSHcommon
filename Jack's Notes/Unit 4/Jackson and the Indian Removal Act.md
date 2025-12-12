@@ -1,0 +1,39 @@
+## Background:
+- Andrew Jackson -> born in Tennessee
+	- Settlers often fought with Natives
+	- He thought that Natives stood in the way of expansion
+- **As a General:**
+	- Jackson fought Creeks and Seminoles
+	- Forced native communities to give over land
+	- Success -> thought that removal of natives is best
+- Settlers wanted land in the South -> to grow cotton
+	- Jackson's strongest supporters were frontier settlers -> demanded Native removal
+- **Lead to the Indian Removal Act of 1830**
+- Indian Removal Act was Jackson's first priority once in office
+
+## Indian Removal Act of 1830:
+- Johnson v. McIntosh (1823)
+	- Ruled -> citizens couldn't purchase land from Native Americans
+		- Land belonged to US -> "Right to discovery"
+- **Terms of the Act:**
+	- Pres. could exchange lands in the west for the land of native communities in Eastern U.S.
+	- Allowed fed. govt. to forcibly remove Natives from ancestral land
+		- Land to be given to white farmers, frontier settlers
+- **Results:**
+	- Worchester v. Georgia **&** Cherokee Nation v. State of Georgia:
+		- Native people were not considered citizens of US (Sovereign nations)
+		- Rules that there needed to be an official treaty/charter for the deal
+		- Jackson ignores it ->
+	- 1837 -> ~46,000 native peoples removed from their homes 
+		- Relocated in "Indian Territory" (Oklahoma)
+		- Creek, Choctaw Nations impacted heavily
+	- Cherokee fought removal, but were removed by military **-> Trail of Tears:**
+		- Harsh winter in 1838 lead to many deaths
+- **Native Responses:**
+	- Legal Resistance -> Cherokee
+	- Negotiation & Treaties -> saw it as only way to protect people
+	- Political Protest
+	- Armed Resistance -> Second Seminole War
+	- Survival and Adaptation -> communities built towns, schools, and government in Oklahoma
+		- **Assimilation was heavily pushed due to diverse cultures of many communities**
+		- 
