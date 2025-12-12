@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "12.12.25"
             }
+          },
+          {
+            "id": "a568bdbd0dcf5510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d81eefdcc66e181",
+  "active": "a568bdbd0dcf5510",
   "lastOpenFiles": [
-    "Violet's Notes/Unit 5/Chapter 13",
     "Violet's Notes/Unit 5/Chapter 13/12.12.25.md",
+    "conflict-files-obsidian-git.md",
+    "Jack's Notes/Unit 4/Unit 4 Review.md",
+    "Jack's Notes/Unit 4/Expansion of Slavery and Life in the North.md",
+    "Violet's Notes/Unit 5/Chapter 13",
     "Violet's Notes/How to write an LEQ.md",
     "Violet's Notes/Unit 4/LEQ- Market Revolution.md",
     "Violet's Notes/Unit 5",
@@ -185,7 +203,6 @@
     "Violet's Notes/Unit 4/Chapter 10/Andrew Jackson Presidency Chart-Jackson Directives.md",
     "README.md",
     "hai.md",
-    "conflict-files-obsidian-git.md",
     "Jack's Notes/Unit 4/The Bank War and Second Party System.md",
     "Jack's Notes/Unit 4/Jackson and the Indian Removal Act.md",
     "Violet's Notes/Unit 4/Chapter 10/11.24.25 2nd Party System Notes.md",
@@ -198,7 +215,6 @@
     "Violet's Notes/Unit 4/Chapter 7 Part II/11.10.25 The Marshall Court.md",
     "Violet's Notes/Unit 4/Chapter 7 Part II/War of 1812 (with Britain).md",
     "Violet's Notes/Unit 4/Chapter 11/12.1.25 2nd Great Awakening Presentation Notes.md",
-    "Violet's Notes/Unit 4/Chapter 12/12.3.25 Slavery Expansion and Arguments.md",
     "Violet's Notes/Unit 4/Chapter 12",
     "Violet's Notes/Unit 4/Chapter 11",
     "Violet's Notes/Unit 4/Chapter 10",
@@ -208,7 +224,6 @@
     "Resources",
     "Jack's Notes/Unit 4",
     "Violet's Notes/Unit 4/Chapter 7 Part II",
-    "Violet's Notes/Unit 4",
     "Pasted image 20251104090740.png"
   ]
 }

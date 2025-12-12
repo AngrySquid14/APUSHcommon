@@ -1,0 +1,17 @@
+## Northern Life:
+- Northern attitudes towards slavery were increasingly negative
+	- However, People disagreed on what an integrated society would look like
+	- Fears of job competition, political and social differences
+- **Northern states passed laws banning slavery -> New restrictions to limit free blacks**
+	- Couldn't vote
+	- Breaking laws -> fines, imprisonment, violence
+	- Riots and clashes occurred in North and Midwest
+		- Cincinnati, Detroit, Philadelphia
+- **Big Cities:**
+	- Black communities and immigrant communities blended
+	- White neighborhoods in East Coast cities had restrictions to 
+		- Churches were excluded -> Importance of church in African American life
+	- **African Free School:**
+		- founded 1787
+		- Incorporated into NYPS in 1834
+		- First school for black children 
