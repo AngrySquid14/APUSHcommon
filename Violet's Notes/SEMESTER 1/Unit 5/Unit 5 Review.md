@@ -1,0 +1,90 @@
+## U.S. Expansion
+- ### Manifest Destiny
+	- based on *racial & cultural superiority*
+	- main focus of political debates
+- ### Acquiring Territory
+	- Mexican-American War => Mexican Cession (Mexico loses land)
+	- Enormous debates over slavery (*Wilmot Proviso*)
+		- 1846 Proposal in Congress to ban slavery in territory acquired from Mexican Cession
+- ### Impacts of Expansion?
+	- Environmental changes, settlement of *Indian Lands*
+- ### Initiates towards Asia
+	- Economic: *Matthew Perry*
+	- Cultural: *Missionaries*
+- ### Immigrants
+	- Old Immigrants => live in *ethnic communities*
+		- Irish in cities, Germans on frontier
+		- arrived pre-Civil War
+		- Face nativism -> anti-Catholic, sought to limit their power & influence
+			- *Know-Nothing Party*
+- ### Opportunities out West
+	- Increased b/c legislation promoting economic development (**Homestead Act**)
+		- Homestead Act (1862) - 160 acres of cheap/free land to move West & settle for 5 years
+- ### Impacts of Migrant + Territorial Expansion?
+	- Conflicts w/ Hispanics + Natives
+		- Sand Creek Massacre -> Colorado militia attacks Cheyenne Indians, kill >100, mainly women + children
+		- Little Big Horn/Custer's Last Stand -> Natives attack + kill Custer and his men
+## Northern and Southern Differences
+- North => free labor manufacturing
+- South => dependent on agriculture & slavery, with a *slow* population growth
+- ### Abolitionists
+	- Small # in North, although had a *visible campaign*
+	- Used fierce arguments (*William Lloyd Garrison*)
+	- Helped slaves escape (Underground RR)
+	- Used Violence (*John Brown*)
+- ### How did the South defend Slavery?
+	- argued it was a "positive good"
+	- *Nullification* -> belief that states could declare federal laws *unconstitutional*
+	- racist stereotypes -> minstrel shows
+## Compromises and Election of 1860
+- ### Attempts at solving slavery issue?
+	- Compromise of 1850 -> dealt with land gained from Mexican Cession
+		- *popular sovereignty and a strict fugitive slave law*
+	- Kansas-Nebraska Act -> "*Bleeding Kansas*"
+	- *Dred Scott decision* (1857)
+		- Decided that African Americans were not Citizens
+- ### End of 2nd Party System?
+	- Issues over Slavery
+	- Anti-immigrant Nativism -> Know-Nothing Party
+	- emergence of sectional parities -> Republicans in North & Midwest
+- ### Election of 1860
+	- Lincoln elected on a *free soil* platform
+	- <u>Immediate cause of secession, which led to the Civil War</u>
+## Union Victory in the Civil War
+- ### North & South Mobilize Economies
+	- Both instituted *conscription* (draft)
+	- Lincoln suspended *habeas corpus* in MD
+- ### Emancipation Proclamation
+	- Changed the *purpose* of the war, no longer just to preserve the union
+	- *Helped keep Europe out of the war*
+	- African Americans fought in the Union Army
+	- Could be compared to the *Gettysburg Address*
+- ### Why did the Union Win?
+	- Improved military leadership -> Grant & Sherman
+	- Effective Strategies -> Anaconda Plan
+	- Key victories -> Antietam, Gettysburg (PA)
+	- Greater resources: more factories & railroads
+	- Destruction of the South's environment, infrastructure, and moral -> *Sherman's March to the Sea*
+## Reconstruction
+- ### 13th Amendment - Abolished Slavery
+	- Drastic social + economic change
+	- However, sharecropping endured in much of the South
+- ### Impacts of Radical Republicans (North)
+	- Change in balance of power between Congress & President -> impeachment of *Andrew Johnson*
+	- Former slaves & African Americans gain political opportunities
+		- *Hiram Revels* => first African American elected to Congress
+	- Waning -> To reduce, by 1870's, North's resolve for Reconstruction was *waning*
+		- *Compromise of 1877 ended Reconstruction* -> military withdraws from South -> Hayes becomes President
+## Constitutional Amendments
+- ### 14th Amendment - Citizenship & <b>Equal Protection of the Laws</b>
+- ### 15th Amendment - Suffrage for Men
+- ### African-American Rights Limited
+	- Segregation -> *Jim Crow Laws*
+	- Violence -> *KKK*, White League
+	- Supreme Court Decisions -> Plessy v. Ferguson, *Civil Rights Cases*
+	- Local Political Tactics -> *Poll taxes, Literacy tests, Grandfather clause*
+	- *Note*: Black codes limited movement and land rights, Jim Crow segregated public spaces. Black Codes were also earlier (right after Civil War)
+- ### Impacts on Women's Rights?
+	- Split the group -> Some only advocated for 15th amendment *if it included women* -> Elizabeth Cady Stanton & Susan B. Anthony
+		- AWSA vs. NWSA
+	- Amendments were stalled for many decades, but were used in 1950's and 60s Civil Rights Movement
