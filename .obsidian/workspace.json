@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a6056cf56c9d05e2",
+        "id": "630ad865e8885781",
         "type": "tabs",
         "children": [
           {
-            "id": "571f49c4de471847",
+            "id": "d6f5d2bf502895e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Violet's Notes/Unit 5/Chapter 13/12.17.25 1860 Election Notes & John Brown.md",
+                "file": "Violet's Notes/SEMESTER 2/Unit 6/Chapter 17/1.28.26 Indian Policy & The End of Armed Resistance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.17.25 1860 Election Notes & John Brown"
-            }
-          },
-          {
-            "id": "ef7dfc092a2f51a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/SEMESTER 1/Unit 5/Unit 5 Test Topics (Cause & Effects).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 5 Test Topics (Cause & Effects)"
-            }
-          },
-          {
-            "id": "15ce3c308c4d5c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/SEMESTER 1/SEMESTER 1 REVIEW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEMESTER 1 REVIEW"
+              "title": "1.28.26 Indian Policy & The End of Armed Resistance"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -200,45 +170,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ce3c308c4d5c34",
+  "active": "d6f5d2bf502895e0",
   "lastOpenFiles": [
+    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 17",
+    "Violet's Notes/SEMESTER 2",
+    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 17/1.28.26 Indian Policy & The End of Armed Resistance.md",
+    "Violet's Notes/SEMESTER 2/Unit 6",
+    "Violet's Notes/SEMESTER 1/SEMESTER 1 REVIEW.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 5 Toward Independence 1763-1776/10.9.25 Significance of the French and Indian War.md",
+    "Violet's Notes/SEMESTER 1/Unit 2/APUSH REVIEW Key Concept 2.2 & 2.2,1.md",
+    "Violet's Notes/SEMESTER 1/Unit 2/Chapter 4 AP Text Topics (Completed).md",
+    "Violet's Notes/SEMESTER 1/Unit 2/10.1.25  Unit 2 (1607-1754) Exam Topics (Chapters 2-4).md",
+    "Violet's Notes/SEMESTER 1/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Unit 5 Review.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 16/Chapter 16 Notes Photo.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/1.6.26 The Emancipation Proclimation.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.8.26 Post-War Challenges.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/Chapter 15 Notes Photo.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.9.26 3 Plans for Reconstruction.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.12.2026 The End of Reconstruction.md",
+    "Violet's Notes/SEMESTER 1/Unit 4/Unit 4 Review.md",
+    "Violet's Notes/SEMESTER 1/Unit 4/Unit 4 Pre-Test Lecture Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 4/LEQ- Market Revolution.md",
+    "Violet's Notes/SEMESTER 1/Unit 2/PRE-UNIT 2 Test Lecture (8AM) Notes.md",
     "Pasted image 20260123100008.png",
     "Violet's Notes/SEMESTER 1",
     "Violet's Notes/SEMESTER 1/Unit 5/Unit 5 Test Topics (Cause & Effects).md",
-    "Violet's Notes/SEMESTER 1/SEMESTER 1 REVIEW.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Pre-Test Lecture Unit 5.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 16/Chapter 16 Notes Photo.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.17.25 1860 Election Notes & John Brown.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.16.25 Sectional Debate.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.15.25 Sectional Crisis.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.12.25 Manifest Destiny + War with Mexico.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Unit 5 Review.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.12.2026 The End of Reconstruction.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/Chapter 15 Notes Photo.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.9.26 3 Plans for Reconstruction.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.8.26 Post-War Challenges.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/1.6.26 The Emancipation Proclimation.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/1.5.26 Civil War Notes.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/Advantages of the North & South.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/12.18.25 Civil War Intro.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/Key Civil War (1861-1865) Battles.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 16",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15",
-    "conflict-files-obsidian-git.md",
-    "Jack's Notes/Unit 4/Unit 4 Review.md",
-    "Jack's Notes/Unit 4/Expansion of Slavery and Life in the North.md",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13",
-    "Violet's Notes/How to write an LEQ.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/LEQ- Market Revolution.md",
     "Violet's Notes/SEMESTER 1/Unit 5",
-    "Violet's Notes/SEMESTER 1/Unit 4/Unit 4 Pre-Test Lecture Notes.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/12.4.25 Unit 4 Review in class notes.md",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 12",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 11",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10",
     "Resources/Pasted image 20251104090740.png",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 9",
     "Pasted image 20251104090740.png"
   ]
 }

@@ -1,3 +1,5 @@
+PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclamation Line of 1763
+	-> Proclamation Line : No expansion West of Appalachians b/c need to please Natives
 # PERIOD 1: 1491-1607
 <span style="color:pink">1491 = 1 year prior to European Contact, 1607 = English Settlement (Jamestown)</span>
 - **Maize** -> Corn, grown by Natives in SW-US & Mexico
@@ -55,7 +57,7 @@
 		- Prevents one branch/level of Gov. from abusing its power
 	- ### Series of Compromises w/ Limits on National Powers
 		- ***Great Compromise*** -> established a *bicameral* legislature; one house based on population, one had equal representation per state (Senate)
-		- ***3/5ths Compromise*** -> 60% of slaves would count as population towards representaion
+		- ***3/5ths Compromise*** -> 60% of slaves would count as population towards representation
 		- ***Slave Trade Compromise*** -> outlawed the *international slave trade* after **1808**
 	- The Constitution DID NOT deal w/ Slavery - *postponed a solution to the problems of slavery*
 - ## Bill of Rights
@@ -127,20 +129,75 @@
 # PERIOD 5: 1844-1877
 <span style="color:pink">1844 = Election of James K. Polk, 1877 = End of Reconstruction</span>
 - ## Manifest Destiny
+	- America has a "God-given" right to expand
+		- built on belief in *white racial superiority* and *American cultural superiority*
+	- source of political debates
 	- ### Mexican-American War
+		- US wins -> Mexican Cession -> controversy over slavery in new territories
+			- **Wilmot Proviso** -> proposed slavery would be banned in all land gained from Mexican Cession...WAS NOT PASSED
 - ## Asia
+	- US wants to expand trade
+		- *Matthew Perry* in Japan
 - ## More "Old Immigrants" Prior to Civil War
 	- ### Nativist Movement
+		- Anti-Catholic
+		- Hoped to *limit power of immigrants*
+		- **America/Know-Nothing Party**
 - ## New Legislation Promotes National Development
+	- *During and AFTER* the Civil War
+	- **Homestead Act** => 160 Acres of land basically given away => encourages westward settlement
+	- **Morill Land Grant** => Sell land, provide $ *for colleges*
 - ## Abolitionists
-- ## Slavery Defense
+	- <u>small portion of the North, but highly visible</u>
+	- *Methods Against Slavery*
+		- Strong arguments -> William Lloyd Garrison's 'The Liberator'
+		- Heling slaves escape -> Underground Railroad
+		- Violence -> John Brown
+- ## Slavery Defense?
+	- Slavery is a "Positive Good" - John C. Calhoun
+	- Racist Stereotypes -> "Jim Crow" Minstrel Shows
 - ## Proposals to Resolve Slavery Issue
 	- ### Compromise of 1850
+		- Created to address land gained from Mexican Cession
+		- *Country was on the BRINK of war!*
+		- 5 Parts to Solution:
+			- California gets to be free state *w/o adding a slave state*
+			- Slave TRADE ended in D.C.
+			- new, strict, **Fugitive Slave Law** (legal kidnapping of runaways)
+			- Texas paid $ to give up claims to bordering states
+		- Impacts?
+			- North detested *Fugitive Slave Law* -> More abolitionists and non-enforcement of the law
+				- Abolitionists also get lynched
 	- ### Kansas-Nebraska Act
-	- ### Dred Scott
+		- **Stephen Douglass** -> wants to build *railroad* thru *Nebraska territory*
+			- Proposed K-N Act, which would allow *popular sovereignty* in Kansas + Nebraska
+		- Expectation: Kansas = Slave, Nebraska = Free
+		- <u><i>Overturned the Missouri Compromise of 1820</i></U>
+		- Voters turn out in full force in Kansas => violence breaks out, hence "*Bleeding Kansas*"
+	- ### Dred Scott (1857)
+		- Supreme Court Case that sought to settle slavery question in territories
+		- Ruling was that:
+			- African Americans ≠ Citizens => *Cannot sue in court*
+			- <u>Slaves were property, could not be taken w/o "due process"</u>
+			- **Missouri Compromise** *was unconstitutional, Congress **cannot** regulate slavery in the territories* 
+		- Made North very upset => Increased tensions
 - ## The Republican Party
+	- Started as a Sectional Party in North + Midwest
+	- Made of former Whigs
+		- Also made of "Free-Soil" party kind of?
 - ## The Election of 1860
+	- *Lincoln ran on a free-soil platform*
+		- NOT meaning that slavery would end, BUT DID oppose **extension** of slavery
+	- Impact of election?
+		- Was the **immediate cause** of *Southern Secession*, and ultimately the **Civil War**
+- ## The Civil War
 	- ### Emancipation Proclamation
+		- Freed slaves in areas of rebellion
+		- Impacts?
+			- Changed *purpose* of war (Freedom)
+			- 200k Black soldiers join Union military
+			- <u>kept Europe from aiding South</u> b/c Europe didn't want to endorse slavery
+		- Comparable to Gettysburg Address and 13th Amendment
 - ## Why did the North Win?
 - ## Radical Republicans 
 - ## Amendments
