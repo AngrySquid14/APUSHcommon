@@ -60,7 +60,7 @@ Pontiac's Rebellion
 	- Rebellion of farmers that demanded an end to farmers debts after Rev. war???
 #### Impacts of Enlightenment on American Political thinkers?
 - Individual talent over hereditary privilege: primogeniture 
-#### C]Laration
+#### CLaration
 - Common Sense (Thomas Paine)
 	- Challenged KG3- It was "common sense" to break away form the corrupt monarch
 	- a little island could not rule a large continent

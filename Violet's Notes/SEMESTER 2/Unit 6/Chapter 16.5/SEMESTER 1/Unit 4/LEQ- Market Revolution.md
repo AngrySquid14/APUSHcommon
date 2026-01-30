@@ -1,0 +1,13 @@
+- #### What led to the market rev.
+	- inventions??
+		- cotton gin
+		- telegraph
+		- interchangeable parts
+		- reaper
+		- canals being built
+		- steamboats
+		- railroads
+		- national roads
+	- push for internal improvements?
+### Intro draft
+-       The market revolution was caused primarily because of the economic relationship between the Northeast and Midwest forged by the infrastructure built in what had previously been an underdeveloped, infant nation. Internal improvements (canals, railroads, national roads) allowed raw goods from the Midwest to be sold in a larger region, boosting their economy. In the Northeast, cities such as NYC were able to dominate the import and export markets with their canals and harbors. While the South was less benefitted by transportation innovations during the Market revolution, the inventions of the cotton gin allowed cotton production in the South to grow significantly.

@@ -1,0 +1,209 @@
+PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclamation Line of 1763
+	-> Proclamation Line : No expansion West of Appalachians b/c need to please Natives
+# PERIOD 1: 1491-1607
+<span style="color:pink">1491 = 1 year prior to European Contact, 1607 = English Settlement (Jamestown)</span>
+- **Maize** -> Corn, grown by Natives in SW-US & Mexico
+- **Great Plains** & **Great Basin** -> Lack of resources => *Nomadic lifestyle*
+- **Columbian Exchange** -> Exchange of goods, ideas, diseases, between Europe, Africa, Americas
+	- => Natives greatly impacted by diseases, introduction of guns + horses
+		- Racially mixed population (*Mestizos*)
+	- => Europe has large population growth because of potatoes + maize, increase in capitalism
+	- => Africa has slave trade (Middle Passage) Spanish + Portuguese in West Africa
+- **Encomienda System** -> Royal grants of land Spanish Crown ->Settlers
+	- Settlers promise to Christianize Natives
+	- Eventually was replaced with *African slave labor*
+# PERIOD 2: 1607-1754
+<span style="color:pink">1607 = first permanent English settlement (Jamestown), 1754 = Beginning of the <i>Seven Years War</i></span>
+- ## Concepts
+	- ***Enlightenment*** = focus on *reason* and *intelligence*, individuals question forms of government
+		- ***Montesquieu*** = Separation of Powers, ***Locke*** = *Consent of the Governed*
+	- ***Mercantilism*** = Goal is to make $ for *mother country*
+		- Positive balance of trade that *favors the mother country*
+- ## Colonies
+	- **New England Colonies** established by *Puritans* => Like-minded community, mix of agriculture & commerce
+	- **Middle Colonies** grow *cereal crops* => religiously, demographically, and ethnically *diverse*
+	- **Chesapeake Colonies (Maryland & Virginia)** grow *tobacco*, rely on *indentured servants* and later African slaves
+	- **Southern Colonies + West Indies** grow *staple crops* (sugar), heavy use of *slave labor*
+- **Pueblo Revolt** => Native Am. rebellion in SW portion of U.S.
+	- Spanish sought to end native practices inconsistent w/ Christianity
+	- Pueblos rebel, expel Spanish for 10+ years
+		- Eventually Spanish regain control => advocate for *religious assimilation of Natives*
+- **Anglicization of the British Colonies** Colonies take on British characteristics
+	- eg. trans-Atlantic *print culture*, commercial ties, etc.
+# PERIOD 3: 1754-1800
+<span style="color:pink">1754 = Beginning of the <i>7 Years War</i>, 1800 = <u>Jefferson's Election</u></span>
+- ## Seven Years' War
+	- Fought between British/Colonists & French/Natives
+	- *Britain won*, <u>France is removed</u> from North America
+	- *Watershed Event* => Britain ends **Salutary Neglect**, begins to tax colonies -> colonial *resistance*
+		- Stamp Act -> Stamp Act Congress -> Repeal of Stamp Act -> Declaratory Act
+- ***Thomas Paine's Common Sense***
+	- Enlightenment thinker, <u>urged the colonists to break away fro Great Britain</u>
+- ## Declaration of Independence
+	- Written by *Jefferson, Adams, & Franklin*, inspired by **Common Sense** and *Enlightenment Thinkers* (Locke)
+	- List of grievances against *King George the Third*
+- ## Colonial War for Independence
+	- U.S. won in spite of: *loyalist opposition, military and financial advantages by Great Britain*
+	- U.S. won BECAUSE: *support from Europe* (FRANCE), *ideological commitment*
+- ## Articles of Confederation
+	- Created a *very weak* central government
+		- Could not tax, no national military, 9/13 states needed to pass laws, all 13 required to amend Articles
+	- ### Northwest Land Ordinance
+		- Process for admitting states into the Union (60k inhabitants)
+		- *Outlawed slavery* in the **Northwest Territory**
+		- Established *public education*
+- ## Constitution
+	- Based on *Federalism* and *Separation of Powers*
+		- Prevents one branch/level of Gov. from abusing its power
+	- ### Series of Compromises w/ Limits on National Powers
+		- ***Great Compromise*** -> established a *bicameral* legislature; one house based on population, one had equal representation per state (Senate)
+		- ***3/5ths Compromise*** -> 60% of slaves would count as population towards representation
+		- ***Slave Trade Compromise*** -> outlawed the *international slave trade* after **1808**
+	- The Constitution DID NOT deal w/ Slavery - *postponed a solution to the problems of slavery*
+- ## Bill of Rights
+	- Added AFTER Constitutional Convention
+	- *Guarantees Rights* -> Satisfied **Anti-Federalists** enough to ratify Constitution
+- ## Impact of D of I and American Revolution
+	- ### French Revolution
+		- also inspired by *Enlightenment* ideas
+		- Helped lead to divisions between **Jefferson and Hamilton**
+	- *Haiti and Latin Am. also experience rebellions*
+- ## Republican Motherhood
+	- Encouraged women to raise children & instill *Republican values* in their families
+	- => Women gain more access to education
+# PERIOD 4: 1800-1848
+<span style="color:pink">1800 = Jefferson's election, 1848 = Seneca Falls Convention (Women's Rights Convention)</span>
+- ## Federalists and Democratic Republicans
+	- *First political parties*, formed in response to: *Hamilton's Financial Plan*, *French Revolution*
+		- Federalists = Upper-class, favor loose interpretation of the Constitution, pro-British (Trade), favor merchants, like BUS
+		- Democratic-Republicans = Commoners/middle-class, favor strict interpretation (BEFORE LA purchase), Pro-French (Rev. War), favor farmers, dislike BUS
+- ## Democrats and Whigs
+	- *Second Party System* - Whigs formed <u>in response to "King Andrew I"</u>
+	- Democrats = tend to be party of the "Common Man", favor universal *white male* suffrage, Spoils System, want to lower tariffs
+	- Whigs = Favor tariffs, want Strong Congress, BUS, and *internal improvements*
+- ## Louisiana Purchase = Beginning of Manifest Destiny
+	- *Doubled the size of the U.S.*
+	- => Jefferson switches to *loose interpretation*
+- ## Supreme Court?
+	- Helped assert *federal power over state laws*
+	- *determined the meaning of the Constitution*
+	- Gibbons v. Ogden -> Supreme Court ruled that the federal government, NOT states, controlled *interstate trade*
+- ## Slavery
+	- Defended in the South as a "*positive good*"
+- ## Second Great Awakening
+	- Inspired many to achieve *perfection*
+	- Focused on *secular reforms*, esp. *abolitionism & women's rights* (Seneca Falls)
+- ***Xenophobia*** -> fear of foreigners (similar to *Nativism*)
+- ## New Technology/ Infrastructure
+	- *Textile Machinery* -> Spinning Jenny (?)
+	- *Steam Engines* -> allowed boats to go AGAINST the current
+	- *Interchangeable Parts* -> Eli Whitney -> increased production of good
+	- *Canals* -> Erie Canal, Increase in shipping
+	- *Railroads* -> esp. in 1840s, faster shipment of goods and people
+	- *Telegraph* -> Spread of information quicker
+	- *Agricultural Inventions* -> steel plow, McCormick reaper
+- ## Henry Clay's American System
+	- *aimed to unify the national economy*
+	- ### 3 Parts
+		- Bank of the U.S.
+		- Tariffs
+		- Internal Improvements (funded by Tariffs)
+	- System connected the *North* & *Midwest* more than the South
+- ## Migrants from Europe
+	- Irish -> settle in cities
+	- Germans -> settle on frontier as farmers
+	- Overall, settle in *East* & *Midwest*
+	- Led to *interdependence between the Northeast and **Old Northwest*** (meaning basically the Midwest)
+- ## Market Revolution
+	- Transformation in how goods were *produced* -> more *outside the home*; an increase in *technology* & *transportation* as well
+- ## National Bank, Tariffs, and Internal Improvements
+	- Major political issues, *regional interests trumped national concerns*
+- ## Federal Government Asserts Authority
+	- => Resistance from states
+	- Hartford Convention, *Nullification Crisis*
+- ## Missouri Compromise (of 1820)
+	- Tallmadge Amendment -> *Never passed*; PROPOSED the gradual emancipation of slaves in MO
+	- 3 Parts: MO added as slave state, ME added as free state, 36-30 Line (Above = free, Below = slave)
+		- Number of free & slave states became equal @ 12
+	- **SHORT TERM SOLUTION**, eventually Compromise broke down (Kansas-Nebraska Act, Dred Scott)
+# PERIOD 5: 1844-1877
+<span style="color:pink">1844 = Election of James K. Polk, 1877 = End of Reconstruction</span>
+- ## Manifest Destiny
+	- America has a "God-given" right to expand
+		- built on belief in *white racial superiority* and *American cultural superiority*
+	- source of political debates
+	- ### Mexican-American War
+		- US wins -> Mexican Cession -> controversy over slavery in new territories
+			- **Wilmot Proviso** -> proposed slavery would be banned in all land gained from Mexican Cession...WAS NOT PASSED
+- ## Asia
+	- US wants to expand trade
+		- *Matthew Perry* in Japan
+- ## More "Old Immigrants" Prior to Civil War
+	- ### Nativist Movement
+		- Anti-Catholic
+		- Hoped to *limit power of immigrants*
+		- **America/Know-Nothing Party**
+- ## New Legislation Promotes National Development
+	- *During and AFTER* the Civil War
+	- **Homestead Act** => 160 Acres of land basically given away => encourages westward settlement
+	- **Morill Land Grant** => Sell land, provide $ *for colleges*
+- ## Abolitionists
+	- <u>small portion of the North, but highly visible</u>
+	- *Methods Against Slavery*
+		- Strong arguments -> William Lloyd Garrison's 'The Liberator'
+		- Heling slaves escape -> Underground Railroad
+		- Violence -> John Brown
+- ## Slavery Defense?
+	- Slavery is a "Positive Good" - John C. Calhoun
+	- Racist Stereotypes -> "Jim Crow" Minstrel Shows
+- ## Proposals to Resolve Slavery Issue
+	- ### Compromise of 1850
+		- Created to address land gained from Mexican Cession
+		- *Country was on the BRINK of war!*
+		- 5 Parts to Solution:
+			- California gets to be free state *w/o adding a slave state*
+			- Slave TRADE ended in D.C.
+			- new, strict, **Fugitive Slave Law** (legal kidnapping of runaways)
+			- Texas paid $ to give up claims to bordering states
+		- Impacts?
+			- North detested *Fugitive Slave Law* -> More abolitionists and non-enforcement of the law
+				- Abolitionists also get lynched
+	- ### Kansas-Nebraska Act
+		- **Stephen Douglass** -> wants to build *railroad* thru *Nebraska territory*
+			- Proposed K-N Act, which would allow *popular sovereignty* in Kansas + Nebraska
+		- Expectation: Kansas = Slave, Nebraska = Free
+		- <u><i>Overturned the Missouri Compromise of 1820</i></U>
+		- Voters turn out in full force in Kansas => violence breaks out, hence "*Bleeding Kansas*"
+	- ### Dred Scott (1857)
+		- Supreme Court Case that sought to settle slavery question in territories
+		- Ruling was that:
+			- African Americans ≠ Citizens => *Cannot sue in court*
+			- <u>Slaves were property, could not be taken w/o "due process"</u>
+			- **Missouri Compromise** *was unconstitutional, Congress **cannot** regulate slavery in the territories* 
+		- Made North very upset => Increased tensions
+- ## The Republican Party
+	- Started as a Sectional Party in North + Midwest
+	- Made of former Whigs
+		- Also made of "Free-Soil" party kind of?
+- ## The Election of 1860
+	- *Lincoln ran on a free-soil platform*
+		- NOT meaning that slavery would end, BUT DID oppose **extension** of slavery
+	- Impact of election?
+		- Was the **immediate cause** of *Southern Secession*, and ultimately the **Civil War**
+- ## The Civil War
+	- ### Emancipation Proclamation
+		- Freed slaves in areas of rebellion
+		- Impacts?
+			- Changed *purpose* of war (Freedom)
+			- 200k Black soldiers join Union military
+			- <u>kept Europe from aiding South</u> b/c Europe didn't want to endorse slavery
+		- Comparable to Gettysburg Address and 13th Amendment
+- ## Why did the North Win?
+- ## Radical Republicans 
+- ## Amendments
+	- ### 13th Amendment
+	- ### 14th Amendment
+	- ### 15th Amendment
+- ## Impacts of Amendments
+	- ### Women's Rights Movement
+	- ### Other Impacts

@@ -1,0 +1,7 @@
+- ##### Figure out what prompt is asking
+	- Historical context, reasoning needed
+- ##### Contextualize
+- ##### Thesis
+	- answer the question
+- ##### Evidence
+	- at least 2 pieces of evidence
