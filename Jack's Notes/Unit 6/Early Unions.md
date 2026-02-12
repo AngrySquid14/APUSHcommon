@@ -1,0 +1,23 @@
+### Knights of Labor & AFL
+- #### The Knights of Labor: -> Terrence Powderly
+	- **Membership:**
+		- Everyone
+	- **Objectives:**
+		- Ending Child Labor
+		- Equal Pay
+		- Bureau of Labor Statistics
+		- 8-hour work day
+	- **Outcomes:**
+		- Haymarket Square Riots
+			- IED goes off at a protest -> Knights are blamed
+			- Many members are 
+- #### AFL: -> Samuel Gompers
+	- **Membership:**
+		- Skilled workers 
+	- **Objectives:**
+		- Higher wages
+		- Shorter Hours
+	- **Outcomes:**
+		- Congress passed labour laws, Supreme Court overruled some
+		- Merged with CIO
+		- Achieved better working conditions in 1955 <- Much later (Long term progress)

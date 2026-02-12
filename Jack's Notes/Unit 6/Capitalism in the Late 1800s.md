@@ -1,0 +1,44 @@
+## Rise of the Corporations:
+- **Gustavus Swift**:
+	- Meat-Packing Industry
+	- **Vertical Integration** and **Predatory Pricing**
+- **John D. Rockefeller**:
+	- Standard Oil Co.
+	- **Horizontal Integration**
+	- Trusts (Monopolies)
+- **Andrew Carnegie**:
+	- Steel Industry
+	- **Vertical Integration**
+	- Spent $350mil. on libraries and Universities
+- **J.P. Morgan**:
+	- Banking
+	- Reorganized RR industry
+	- Bought Carnegie's US Steel Co.
+
+### Vocabulary:
+- **Predatory Pricing**:
+	- When a company temp. lowers prices -> drives competitors out of business
+	- After competition is gone they raise prices again
+- **Horizontal Integration**:
+	- Taking market shares and controlling prices
+	- Absorbing competition
+		- Can be cooperative or takeovers
+- **Vertical Integration**:
+	- Control of production by gaining control of **ALL** parts of manufacturing process
+	- *Ex. a steel company owning coal and iron mines, rail lines*
+- **Mass Production**:
+	- Factory system
+	- Combined advanced machinery, Disciplined labor force, and assembly line
+	- Produced large quantities of identical goods at low cost
+- **Deskilling**:
+	- Mass Production replaces skilled laborers with unskilled laborers
+	- Includes women and children
+	- Significantly decreases costs by lowering wages
+- **Trust**:
+	- Multiple companies in the same industry under control of one board
+		- **Companies still exist as separate entities**
+	- Goal -> Reduce competition, Control prices
+- **Monopoly**:
+	- One dominant company in an industry
+	- Single firm controls market
+	- Goal -> Eliminate competition, Control prices and supply

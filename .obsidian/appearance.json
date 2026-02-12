@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Rose Pine",
+  "cssTheme": "Obsidian gruvbox",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
-  "theme": "system"
+  "theme": "system",
+  "accentColor": "#ababab"
 }

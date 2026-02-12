@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e23702b49e19f39f",
+        "id": "dc9d146a05c3cec5",
         "type": "tabs",
         "children": [
           {
-            "id": "1a16c71c2fe87b96",
+            "id": "b49cdbfd84ee30c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jack's Notes/Unit 4/The Market Revolution.md",
+                "file": "Jack's Notes/Unit 6/The Populist Party and Agriculture Innovation in the late 1800s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Market Revolution"
-            }
-          },
-          {
-            "id": "b1526cb6e874cc7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 5/Lincoln's Leadership in the Civil War.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lincoln's Leadership in the Civil War"
-            }
-          },
-          {
-            "id": "3899bc6cc7ad9d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 5/Turning Points in the Civil War.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Turning Points in the Civil War"
-            }
-          },
-          {
-            "id": "476e7c88c6b3d96c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 5/Southern Challenges to Reconstruction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Southern Challenges to Reconstruction"
-            }
-          },
-          {
-            "id": "a40ce506d319712d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 5/Supreme Court Challenges to Reconstruction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supreme Court Challenges to Reconstruction"
-            }
-          },
-          {
-            "id": "0af06b84b79276e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ignore this (For spanish).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ignore this (For spanish)"
-            }
-          },
-          {
-            "id": "0e52f64ea2d36092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/How to write an LEQ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to write an LEQ"
+              "title": "The Populist Party and Agriculture Innovation in the late 1800s"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Jack's Notes/Unit 6/The Populist Party and Agriculture Innovation in the late 1800s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from The Populist Party and Agriculture Innovation in the late 1800s"
             }
           },
           {
@@ -227,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "Jack's Notes/Unit 6/The Populist Party and Agriculture Innovation in the late 1800s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of The Populist Party and Agriculture Innovation in the late 1800s"
             }
           },
           {
@@ -247,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -268,8 +183,26 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "9d81eefdcc66e181",
+  "active": "b49cdbfd84ee30c3",
   "lastOpenFiles": [
+    "Jack's Notes/Unit 6/Late 1800s Indian Policy.md",
+    "Jack's Notes/Unit 6/The Populist Party and Agriculture Innovation in the late 1800s.md",
+    "Jack's Notes/Unit 3/Colonial Resistance.md",
+    "Jack's Notes/Unit 3/SAQ Brainstorm.md",
+    "Jack's Notes/Unit 3/Road to War.md",
+    "Jack's Notes/Unit 5/Supreme Court Challenges to Reconstruction.md",
+    "Jack's Notes/Unit 5/Resistance to War.md",
+    "Untitled",
+    "Jack's Notes/Unit 6/Social Darwinism and The Gospel of Wealth.md",
+    "Jack's Notes/Unit 6/Capitalism in the Late 1800s.md",
+    "Jack's Notes/Unit 6/Plessy V. Ferguson 1896.md",
+    "Jack's Notes/Unit 6/Early Unions.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Pre-Test Lecture Notes Unit 3.md",
+    "Jack's Notes/Unit 5/Southern Challenges to Reconstruction.md",
+    "Jack's Notes/Unit 5/Turning Points in the Civil War.md",
+    "Jack's Notes/Unit 5/Lincoln's Leadership in the Civil War.md",
+    "Violet's Notes/SEMESTER 1/SEMESTER 1 REVIEW.md",
+    "Violet's Notes/How to write an LEQ.md",
     "conflict-files-obsidian-git.md",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 9/11.19.25 Immigration.md",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 8/James Monroe Administration.md",
@@ -279,23 +212,6 @@
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 7 Part II/Chapter 7 Review.md",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 7 Part II/11.12.25 Marshall Defined Indian Policy.md",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 8/11.13.25 Republican Society Guided Q's.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 7 Part II/11.7.25 Jefferson's Foreign Policy.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10/11.24.25 2nd Party System Notes.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10/11.26.25 Jackson, Indian Removal Act Presentation Note.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 7 Part II/11.10.25 The Marshall Court.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10/11.21.25 The Nullification Crisis.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10/Andrew Jackson Presidency Chart-Jackson Directives.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 11/12.1.25 2nd Great Awakening Presentation Notes.md",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 12/12.3.25 Slavery Expansion and Arguments.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/Key Civil War (1861-1865) Battles.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.17.25 1860 Election Notes & John Brown.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.15.25 Sectional Crisis.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/Advantages of the North & South.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.16.25 Sectional Debate.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13/12.12.25 Manifest Destiny + War with Mexico.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/1.6.26 The Emancipation Proclimation.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14/12.18.25 Civil War Intro.md",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 16/Chapter 16 Notes Photo.md",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 9",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 8",
     "Violet's Notes/SEMESTER 1/Unit 4/Chapter 7 Part II",
@@ -305,8 +221,7 @@
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 13",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 14",
     "Violet's Notes/SEMESTER 1/Unit 5/Chapter 16",
-    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15",
-    "Pasted image 20260123100008.png",
+    "Resources/Pasted image 20260123100008.png",
     "Resources/Pasted image 20251104090740.png"
   ]
 }
