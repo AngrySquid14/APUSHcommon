@@ -17,6 +17,8 @@
 		- Gall 
 
 ### Battle of Little Big Horn:
+- Massacre of US troops by the Lakota tribes
+- 
 
 ### Sitting Bull:
 - Strongly believed in the importance of hunting and keeping native lands
