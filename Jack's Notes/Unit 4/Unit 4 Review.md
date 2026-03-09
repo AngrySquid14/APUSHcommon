@@ -76,3 +76,73 @@
 		- Sectionalism increased
 		- Continued debates abt role of Fed. Govt. in intrastate business
 - **Henry Clay** -> congressman from KY, Speaker of the House for a while, Secretary of State under JQA, Ran for president unsuccessfully, "Compromise King"
+
+# Pre-Test Lecture:
+- ## Monroe Doctrine:
+	- Under pres. Monroe
+	- America would stay out of Europe, Europe would stay out of the Americas
+	- Europe shouldn't recolonize newly independent nations.
+	- Reasons America was able to
+		- High Nationalism
+			- Era of Good Feelings
+			- Victory in War of 1812
+	- echoes GW's Farewell Address
+		- said to not deal with other countries' business
+- ## Slavery and Migration:
+	- Why?
+		- Overuse of soil in the South -> land exhausted
+		- Growth in cotton farming
+	- To the west
+- ## Nullification Crisis:
+	- Over Tariff of Abominations/1812
+	- SC didn't like tariff -> SC exposition and protest -> John C Calhoun
+	- Eventually threatened:
+		- Nullification of Tariff
+			- Like Kentucky, Virginia resolutions
+		- Secession
+			- Like Hartford convention
+		- NOT THE FIRST TIME
+- ## Regional Divide:
+	- **Slavery**:
+		- Gradual emancipation/abolition in North
+	- **Economics**:
+		- Tariffs favored by North
+		- Bank of US favored by North
+	- **Native Policy**:
+		- **NO** regional divide
+		- All US is fairly anti-native
+- ## Reform Movements:
+	- Egalitarianism -> equality of people
+	- Abolition
+	- Adaptability of Man
+	- Transcendentalism -> leads to groups like Utopian societies  
+		- Not really a reform movements
+		- Reform movements more improving existing society
+	- **Temperance Movement**
+		- Made Alcohol prevalent
+		- Contributed to by Women primarily
+	- **Institutions**
+		- Public Education
+	- **Ills of Society:**
+		- Fixing things like Drugs, Prostitution 
+	- Only area that saw growth in this time frame is **Public Education**
+- ## Transportation/Market Rev.
+	- Steamboats -> Steam Engine
+	- Eli Whitney:
+		- Interchangeable Parts for machines
+		- **Cotton Gin**
+	- Regional Impact:
+		- Worsened divide between North and South
+			- North benefitted significantly more than South
+			- Manufacturing, Trade up North, Agriculture in South
+- ## Regional Differences:
+	- MW -> Corn, Pigs, Cows
+	- NE -> Manufactured Goods
+	- South -> Cotton, Tobacco
+- ## Marshall Court:
+	- Judicial Review:
+		- Gave SC more power
+		- Could effectively stop laws and actions of the President
+	- Sustained Fedst. ideas into Jefferson's presidency
+		- Fed. Govt. over State power
+		- 

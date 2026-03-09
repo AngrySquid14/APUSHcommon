@@ -1,0 +1,38 @@
+Term coined by Mark Twains 'The Gilded Age: A Tale of Today' (1873)
+## Gilded Age Immigrants Response
+- ## Key Concepts
+	- growth of *international migration* -> public debate over assimilation and *Americanization*
+		- Immigrants compromise between American and ethnic cultures
+	- *Social Darwinism* used to justify success of elites
+	- Many women work in settlement houses, helping immigrants adapt to U.S. language & customs
+- ## Response to Immigrants: Three Groups
+	- ### Sympathizers
+		- #### Settlement Houses (*Social Settlements*)
+			- Built in *poor immigrant neighborhoods*
+				- *Jane Addams'* Hull House, Chicago
+			- Will be launch point for additional *social reforms* and *political activity* for women
+		- #### Political Machines
+			- Provide services for immigrants
+				- housing, jobs, food, coal (heating), etc.
+			- Excluded *Chinese, African Americans,* and other groups
+			- Motive of machines was to get votes from immigrants
+	- ### Nativists
+		- #### Social Darwinism
+			- "*Survival of the fittest*" applied to immigrants & the poor
+			- Used to *justify* wealth and social status
+		- #### Organized Labor
+			- Some workers fear *job competition*
+			- <u>Language barriers prevent immigrants from joining unions</u>
+			- Immigrants often used as "*strike breakers*"
+		- #### Government Restrictions
+			- 1882 -> federal govt. bans criminals and excessively poor from immigrating(?)
+				- Later polygamists, alcoholics, people with illness
+			- *Chinese Exclusion Act* suspended Chinese immigration 1882->1943
+	- ### Immigrants
+		- #### The Assimilation Question
+			- Had to compromise between traditional & Americanized culture
+			- Settle in *ethnic neighborhoods* -> Little Italy, Chinatown
+			- Children of immigrants -> adapt to new culture, abandon *old country traditions*
+		- #### U.S. v. Wong Kim Ark
+			- raised questions of citizenship by birth vs. parent's nationality
+			- Supreme Court ruled that citizenship is protected by *Fourteenth Amendment*

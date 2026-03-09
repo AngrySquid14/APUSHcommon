@@ -1,0 +1,61 @@
+# "World Power"
+- ## Characteristics
+	- Military strength
+	- *Stable* govt. & economy
+	- Strong trade
+	- Large population, land, & industry
+- ### Advantages
+	- *Security*, technology, health, prestige, influence, freedom
+	- Allies
+	- *Strong economy*
+- ### Disadvantages
+	- *Strong military = Expensive military*
+		- => Debt => higher taxes?
+	- Burden of responsibility
+	- Unpopularity
+		- Everyone hates Americans
+- ### Before
+	- "World Power" U.S. - 1880?
+	- National Expansion => Mexico, incr. industry & population
+	- However, weak military (12th largest Navy) + recovering from Civil War
+- ### Why Attitudes Changed?
+	- "*The Great American Desert*" => Oklahoma -> 2 mil. Acres (1889), Boomers, Sooners (?)
+		- Land sold for cheap, people come to take land
+	- 1890 -> U.S. Census Bureau director announces *frontier is closed*
+		- => there is NO frontier point (*No open land*)
+	- Borders = secure, need to expand & gain natural resources
+	- Business -> need to expand to overseas markets
+- ## Manifest Destiny vs. New Manifest Destiny
+	- New => Incr. power across *Pacific & Caribbean*
+	- Old => Incr. power across *Western Hemisphere*, Americas
+		- local expansion, expand west to coast
+- ### Reasons for Expansion
+	- Expand trade, markets (surplus goods)
+	- Refueling bases for Navy
+	- Compete w/ European expansion
+	- *Social Darwinism*
+	- Spread Christianity, Democracy, "civilize" other nations
+	- Frontier closed => want more frontier
+- ### Reasons against Expansion
+	- *Economic burden*
+		- Military takes $
+	- Other *races & land* are *undesirable*
+	- Expansion is non-Democratic
+	- Fear of rebellion
+# Expansion Cont.
+- Alaska becomes 49th state in 1959
+- Hawaii -> Annexed in 1898
+	- Palmyra Island
+- Wake Island (1899)
+	- No arable land, no crops, no forests, no indigenous inhabitants
+		- I don't know why the U.S. would want this
+- American Samoa (1899)
+	- Different from Samoa
+## Guano Islands Act (1856)
+- **Guano = Sea bird feces, used for fertilizer**
+- Guano Islands Act passed by U.S. Congress
+	- allowed *citizens* of U.S. to take possession of islands containing guano deposits
+		- Islands can be anywhere, as long as not occupied & not owned by other govts.
+		- also allowed Pres. to use military to protect interests
+		- Acquired Baker, Jarvis, Howland, Johnston, and Midway Islands
+
