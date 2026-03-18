@@ -1,0 +1,26 @@
+## WWII on the Homefront:
+- **KC-7.3.III.B**: The mass mobilization of American society *helped end the Great Depression,* and the country's strong industrial base played a pivotal role in winning the war by equipping and provisioning allies and millions of U.S. troops.
+- #### **Rationing:**
+	- Scarce goods that were needed for war effort were allocated to people evenly
+	- Also helped combat inflation of prices on scarce goods
+	- War caused shortages of many goods -> impacted citizens
+	- **Goods included:**
+		- Meat, butter, sugar, coffee, shoes
+		- Gasoline -> particularly complex rationing
+	- Used Stamps and Points system
+	- Lead to emergence of Black Market
+	- **Office of Price Administration:**
+		- Limited wartime inflation
+		- Established maximum prices for certain goods
+		- Rationing stopped at end of the war -> OPA is dissolved in 1947
+- #### **Scrap Drives**
+- #### **Air Raid Drills:**
+	- Fear of raids from axis aircraft was present in the U.S.
+		- Driven by bombing of England et. al.
+	- Involved turning off lights, putting up/drawing closed blackout curtains, and taking shelter in basements/sheds/shelters
+	- Fear of being bombed continues to get worse into cold war
+## WWII in Seattle:
+- Washington and Seattle specifically was hugely important for war contracts
+- Seattle was in top 3 cities in the US for war contracts per capita
+	- Washington States was top 2
+- War planes, Naval ships, and Nuclear Bomb components were major industries in the U.S.
