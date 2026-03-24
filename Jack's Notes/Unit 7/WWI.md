@@ -1,0 +1,52 @@
+## Causes of WWI (Background)
+- **Militarism:**
+	- Countries were growing military power
+	- War was seen as a right of passage -> a way for men to prove themselves
+- **Alliances:**
+	- Two Rival Sides:
+		- Germany and Austria-Hungary
+		- France, Russia, and the UK
+	- If one country in an alliance went to war, others would be obligated to join
+- **Imperialism:**
+	- Competition for colonies in different parts of the world
+- **Nationalism:**
+	- Strong national pride
+	- Ethnic tensions
+	- Especially strong in Balkans
+- ### Assassination of Franz Ferdinand:
+	- Archduke Ferdinand of Austria-Hungary is assassinated by Serbian nationalist
+	- German Emperor says he'll stand by Austria-Hungary
+		- A-H sees this as support for anything they do
+	- **A-H issues ultimatum to Serbia:**
+		- Fire all anti-A-H officials
+		- Allow A-H officials in Serbia to investigate
+		- 48 hours to respond
+	- **Serbia accepts all but #2**
+		- A-H responds by mobilizing its army into Serbia
+		- Russia begins to respond
+	- **Austria Hungary declares war on Serbia**
+		- Russia mobilizes army
+	- **Germany asks Russia to stop**
+		- No response -> Germany declares war on Russia
+	- ### **A-H at war with Serbia -- Germany at war with Russia**
+- ### "All in"
+	- **Germany declares war on France** -> to defeat them before Russia
+	- **Germans pass through neutral Belgium**
+		- UK declares war on Germany -> "protecting Belgian sovereignty"
+	- ### **War is fully started**
+
+## How does the U.S. get involved:
+- **Germany blockades Britain with Submarines**
+	- Sink any allied ships passing through
+- May, 1915 -> **Germans sink Lusitania (passenger ship)** 
+	- 128 Americans die
+- **President Wilson wants peace**
+	- Germany pledges to stop sinking ships
+	- Germany sinks the Sussex (French Passenger ship) -> **Sussex Pledge:**
+		- Germans will warn ships before sinking them
+- ### **Zimmerman Note:**
+	- British intercept German telegram to Mexico
+		- Asking to invade the U.S.
+		- Shifts U.S. public opinion in favor of war
+	- Germany returns to sinking ships - abandoning Sussex Pledge
+- ## April 1917 -> US Declares War
