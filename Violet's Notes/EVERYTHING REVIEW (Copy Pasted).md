@@ -8,21 +8,28 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- => Natives greatly impacted by diseases, introduction of guns + horses
 		- Racially mixed population (*Mestizos*)
 	- => Europe has large population growth because of potatoes + maize, increase in capitalism
-	- => Africa has slave trade (Middle Passage) Spanish + Portuguese in West Africa
-- **Encomienda System** -> Royal grants of land Spanish Crown ->Settlers
+	- => Africa has slave trade (*Middle Passage*) Spanish + Portuguese in West Africa
+- **Encomienda System** -> <u>Royal grants of land from Spanish Crown -> Settlers</u>
 	- Settlers promise to Christianize Natives
 	- Eventually was replaced with *African slave labor*
+- Africans and Natives sought to preserve *autonomy*
 # PERIOD 2: 1607-1754
 <span style="color:pink">1607 = first permanent English settlement (Jamestown), 1754 = Beginning of the <i>Seven Years War</i></span>
 - ## Concepts
 	- ***Enlightenment*** = focus on *reason* and *intelligence*, individuals question forms of government
-		- ***Montesquieu*** = Separation of Powers, ***Locke*** = *Consent of the Governed*
+		- ***Montesquieu*** = Separation of Powers
+			- Wanted 3 branches of govt.
+		- ***Locke*** = *Consent of the Governed*
 	- ***Mercantilism*** = Goal is to make $ for *mother country*
 		- Positive balance of trade that *favors the mother country*
+		- Lasted from ~1600-1800
 - ## Colonies
-	- **New England Colonies** established by *Puritans* => Like-minded community, mix of agriculture & commerce
+	- **New England Colonies** established by *Puritans* => <u>Like-minded community</u>, mix of agriculture & commerce
+		- Disagreeing w/ Puritans = cast out of colonies
 	- **Middle Colonies** grow *cereal crops* => religiously, demographically, and ethnically *diverse*
+		- => most tolerant colonies
 	- **Chesapeake Colonies (Maryland & Virginia)** grow *tobacco*, rely on *indentured servants* and later African slaves
+		- Rely on ind. servants until **Bacon's Rebellion**
 	- **Southern Colonies + West Indies** grow *staple crops* (sugar), heavy use of *slave labor*
 - **Pueblo Revolt** => Native Am. rebellion in SW portion of U.S.
 	- Spanish sought to end native practices inconsistent w/ Christianity
@@ -30,40 +37,46 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- Eventually Spanish regain control => advocate for *religious assimilation of Natives*
 - **Anglicization of the British Colonies** Colonies take on British characteristics
 	- eg. trans-Atlantic *print culture*, commercial ties, etc.
+		- Books, newspapers, etc.
 # PERIOD 3: 1754-1800
 <span style="color:pink">1754 = Beginning of the <i>7 Years War</i>, 1800 = <u>Jefferson's Election</u></span>
 - ## Seven Years' War
 	- Fought between British/Colonists & French/Natives
 	- *Britain won*, <u>France is removed</u> from North America
-	- *Watershed Event* => Britain ends **Salutary Neglect**, begins to tax colonies -> colonial *resistance*
-		- Stamp Act -> Stamp Act Congress -> Repeal of Stamp Act -> Declaratory Act
+	- *Watershed Event* => Britain ends **Salutary Neglect**, begins taxing colonists -> colonial *resistance*
+		- Stamp Act (tax many common goods) -> Stamp Act Congress -> Repeal of Stamp Act -> Declaratory Act
+			- Stamp Act Congress -> Colonists meeting to oppose stamp act
 - ***Thomas Paine's Common Sense***
-	- Enlightenment thinker, <u>urged the colonists to break away fro Great Britain</u>
+	- Enlightenment thinker, <u>urged the colonists to break away from Great Britain</u>
 - ## Declaration of Independence
 	- Written by *Jefferson, Adams, & Franklin*, inspired by **Common Sense** and *Enlightenment Thinkers* (Locke)
-	- List of grievances against *King George the Third*
+	- List of grievances against *KG3*
 - ## Colonial War for Independence
 	- U.S. won in spite of: *loyalist opposition, military and financial advantages by Great Britain*
 	- U.S. won BECAUSE: *support from Europe* (FRANCE), *ideological commitment*
 - ## Articles of Confederation
-	- Created a *very weak* central government
+	- Created a *very weak* central government on purpose
 		- Could not tax, no national military, 9/13 states needed to pass laws, all 13 required to amend Articles
+		- Were trying to avoid creating another monarchy
 	- ### Northwest Land Ordinance
 		- Process for admitting states into the Union (60k inhabitants)
 		- *Outlawed slavery* in the **Northwest Territory**
 		- Established *public education*
+		- Basically only good part of AOC
 - ## Constitution
 	- Based on *Federalism* and *Separation of Powers*
 		- Prevents one branch/level of Gov. from abusing its power
 	- ### Series of Compromises w/ Limits on National Powers
 		- ***Great Compromise*** -> established a *bicameral* legislature; one house based on population, one had equal representation per state (Senate)
 		- ***3/5ths Compromise*** -> 60% of slaves would count as population towards representation
+			- Favored by South b/c it gave them more representation
 		- ***Slave Trade Compromise*** -> outlawed the *international slave trade* after **1808**
 	- The Constitution DID NOT deal w/ Slavery - *postponed a solution to the problems of slavery*
 - ## Bill of Rights
 	- Added AFTER Constitutional Convention
 	- *Guarantees Rights* -> Satisfied **Anti-Federalists** enough to ratify Constitution
-- ## Impact of D of I and American Revolution
+		- Kind of a compromise
+- ## Impact of DOI and American Revolution
 	- ### French Revolution
 		- also inspired by *Enlightenment* ideas
 		- Helped lead to divisions between **Jefferson and Hamilton**
@@ -71,6 +84,24 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - ## Republican Motherhood
 	- Encouraged women to raise children & instill *Republican values* in their families
 	- => Women gain more access to education
+- ## George Washingtons Farewell Address
+	- Warned against
+		- Foreign Alliances
+		- Political Parties
+	- Tensions w/ Britain and France -> Political parties formed
+		- Was not listened to, clearly
+### Jay's Treaty (1795) (British/Native Am. Concession?)
+- **Cause**: British seize 250 Am. cargo ships b/c they have French goods (sugar, etc.)
+	- Washington sends out **John Jay** (federalist papers guy) as diplomat to Britain
+- **Huge flop**
+	- Treaty allowed:
+		- Britain to stop *neutral* (American) ships for having Fr. goods (nay)
+		- Britain to force Am. to pay of *pre-revolutionary war debts* to Br. (nay)
+		- Am. to make claims that Br. were doing illegal searches (yay)
+		- British troops + Native agents to be kicked out of **NW Territory**
+			- **Native Am. Concession**: agree to stop supplying tribes with weapons
+				- Bigger deal for the U.S. than for Britain
+	- ***Senate barely ratified treaty by 2/3 majority***
 # PERIOD 4: 1800-1848
 <span style="color:pink">1800 = Jefferson's election, 1848 = Seneca Falls Convention (Women's Rights Convention)</span>
 - ## Federalists and Democratic Republicans
@@ -80,23 +111,26 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - ## Democrats and Whigs
 	- *Second Party System* - Whigs formed <u>in response to "King Andrew I"</u>
 	- Democrats = tend to be party of the "Common Man", favor universal *white male* suffrage, Spoils System, want to lower tariffs
+		- Spoils system -> give jobs to supporters
 	- Whigs = Favor tariffs, want Strong Congress, BUS, and *internal improvements*
+		- Henry Clay
 - ## Louisiana Purchase = Beginning of Manifest Destiny
 	- *Doubled the size of the U.S.*
 	- => Jefferson switches to *loose interpretation*
 - ## Supreme Court?
-	- Helped assert *federal power over state laws*
+	- Helped assert *federal power over state laws* -> **Judicial Review**
 	- *determined the meaning of the Constitution*
 	- Gibbons v. Ogden -> Supreme Court ruled that the federal government, NOT states, controlled *interstate trade*
 - ## Slavery
 	- Defended in the South as a "*positive good*"
+		- John C. Calhoun
 - ## Second Great Awakening
 	- Inspired many to achieve *perfection*
 	- Focused on *secular reforms*, esp. *abolitionism & women's rights* (Seneca Falls)
 - ***Xenophobia*** -> fear of foreigners (similar to *Nativism*)
 - ## New Technology/ Infrastructure
 	- *Textile Machinery* -> Spinning Jenny (?)
-	- *Steam Engines* -> allowed boats to go AGAINST the current
+	- *Steam Engines* -> allowed boats to go AGAINST the current, incr. trade
 	- *Interchangeable Parts* -> Eli Whitney -> increased production of good
 	- *Canals* -> Erie Canal, Increase in shipping
 	- *Railroads* -> esp. in 1840s, faster shipment of goods and people
@@ -140,12 +174,13 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- *Matthew Perry* in Japan
 - ## More "Old Immigrants" Prior to Civil War
 	- ### Nativist Movement
-		- Anti-Catholic
+		- *Very* Anti-Catholic
 		- Hoped to *limit power of immigrants*
 		- **America/Know-Nothing Party**
+			- Sole purpose was to be Nativist
 - ## New Legislation Promotes National Development
 	- *During and AFTER* the Civil War
-	- **Homestead Act** => 160 Acres of land basically given away => encourages westward settlement
+	- **Homestead Act** => 160 Acres of land for very low price/sometimes free => encourages westward settlement
 	- **Morill Land Grant** => Sell land, provide $ *for colleges*
 - ## Abolitionists
 	- <u>small portion of the North, but highly visible</u>
@@ -172,22 +207,25 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- **Stephen Douglass** -> wants to build *railroad* thru *Nebraska territory*
 			- Proposed K-N Act, which would allow *popular sovereignty* in Kansas + Nebraska
 		- Expectation: Kansas = Slave, Nebraska = Free
-		- <u><i>Overturned the Missouri Compromise of 1820</i></U>
-		- Voters turn out in full force in Kansas => violence breaks out, hence "*Bleeding Kansas*"
+		- *<u><i>Overturned the Missouri Compromise of 1820</i></U>*
+		 - Full force of voters in Kansas => violence breaks out, AKA "*Bleeding Kansas*"
 	- ### Dred Scott (1857)
 		- Supreme Court Case that sought to settle slavery question in territories
 		- Ruling was that:
 			- African Americans ≠ Citizens => *Cannot sue in court*
 			- <u>Slaves were property, could not be taken w/o "due process"</u>
-			- **Missouri Compromise** *was unconstitutional, Congress **cannot** regulate slavery in the territories* 
-		- Made North very upset => Increased tensions
+			- **Missouri Compromise** *was unconstitutional, **Congress cannot regulate slavery** in the territories* 
+		- Made North furious => Increased tensions
+		- ALSO <i><u>overturned Missouri Compromise</u></i>
 - ## The Republican Party
 	- Started as a Sectional Party in North + Midwest
+		- *Sectional Party* = care about own regions interests
 	- Made of former Whigs
 		- Also made of "Free-Soil" party kind of?
 - ## The Election of 1860
 	- *Lincoln ran on a free-soil platform*
 		- NOT meaning that slavery would end, BUT DID oppose **extension** of slavery
+		- Moderate
 	- Impact of election?
 		- Was the **immediate cause** of *Southern Secession*, and ultimately the **Civil War**
 - ## The Civil War
@@ -195,45 +233,81 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- Freed slaves in areas of rebellion
 		- Impacts?
 			- Changed *purpose* of war (Freedom)
+				- Unite the Union/crush rebellion -> End slavery 
 			- 200k Black soldiers join Union military
 			- <u>kept Europe from aiding South</u> b/c Europe didn't want to endorse slavery
 		- Comparable to Gettysburg Address and 13th Amendment
 - ## Why did the North Win?
+	- Military Leadership -> Grant and Sherman
+	- Effective Strategies -> Anaconda Plan, March to the Sea
+	- Military Allies -> France
+	- Key Battles -> Saratoga
 - ## Radical Republicans 
+	- Thaddeus Stevens, Charles Sumner
+		- Sought to incr. power in South, incr. rights for African Am.
+	- Were *not* successful
+		- b/c Reconstruction ended w/ **Compromise of 1877**
+		- Norths resolve to aid African Am. was waning
 - ## Amendments
 	- ### 13th Amendment
+		- *Abolish slavery*
+		- South tried to get around amendment -> **Sharecropping**
+			- Freedmen work on farms, exchange for housing and cut of crop profits
+			- Half of crops given to land owner
+			- Had to borrow $ to start, and loans had high rates
 	- ### 14th Amendment
+		- Granted citizenship to African Am. & those born in the US
+		- Equal protection of the laws
 	- ### 15th Amendment
+		- Suffrage for ALL adult males
 - ## Impacts of Amendments
 	- ### Women's Rights Movement
+		- Split on suffrage issues
+			- Some favor providing suffrage for black Am. *prior* to women
+			- Others wanted both at the same time
 	- ### Other Impacts
+		- Rights gradually stripped from African Am.
+			- *Segregation*
+				- Jim Crow laws -> Held up by Plessy v. Ferguson, etc.
+				- Violence -> KKK
+				- Local political tactics -> Poll taxes, literacy tests, grandfather clauses
 # PERIOD 6: 1865-1898
-## Dawes Act
-- ### Goals
-	- Assimilate Native Am. into white Am. culture
-- ### Impacts/Results
-	- Impact on trials -> took away traditional native way of life, culture
+<span style="color:pink">1865 = End of the Civil War, 1898 = Beginning of the Spanish-American War</span>
+## Gilded Age
+Term coined by Mark Twain
+- Seemed like a good time, but had many problems
+- **Political debates focused on:**
+	- Tariffs
+	- Currency
+	- Corporate expansion -> Monopolies and Trusts
 ## Policy Trends, Impacts on Native American Life
 - ### Westward Growth
+	- *U.S. govt. encouraged westward expansion*
 	- Transcontinental RR built by Irish & Chinese
 	- Gold & mineral discoveries (Comstock Lode)
 	- *Government Policies* -> Homestead Act, subsidies to RR companies
 	- Migrants sought independence, self-sufficiency, economic opportunity
 - ### Impacts on Natives
-	- Bison severely overhunted, almost extinct?
+	- Near extinction of buffalo
 	- Conflicts with Natives + Mex. Am. over land
 		- **Sand Creek Massacre** (1864) -> 133 Natives, mainly women + children killed
 - ### Policy Trends/Impacts
 	- Manipulate Native Am. with Treaties
-		- Treaties often broken
+		- *Treaties often broken/violated*
 	- Native Am. land stolen, put in reservations -> loss of *sovereignty*
-	- Military force
-		- Wounded Knee - 1890, 300 natives killed (women & children)
-	- Boarding school to eradicate Native cultures
+	- *US exerted military force*
+		- Wounded Knee - 1890
+			- 300 natives killed (women & children)
+	- Boarding school to *eradicate Native cultures*
 		- children forced to speak English
-	- Natives given individual plots of land to encourage assimilation
-		- Natives opposed this, didn't want to homestead and farm
+	- Natives given individual plots of land to encourage *assimilation*
+		- <u>Natives opposed this, didn't want to homestead and farm</u>
 	- Ghost Dance => Native ceremony, somewhat praying for *buffalo to return* and for whites to be *eliminated*
+### Dawes Act
+- #### Goals
+	- Assimilate Native Am. into white Am. culture
+- #### Impacts/Results
+	- Impact on trials -> took away traditional native way of life, culture
 ## Consumer Culture, Strategies, Retail Growth
 - ### Marketing advancements
 	- **Mail Order Catalogs** -> *Sears* catalogue -> appeal to *middle-class* families
@@ -264,6 +338,7 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- *Standards of living improved*
 		- However, *wealth gap* between rich and poor
 	- Division between workers (unions) and management (corporations)
+	- **Mechanized agriculture hurt many farmers**
 - ### Attempts to increase profits by Business leaders
 	- Consolidating Businesses
 		- **Trusts** -> associated with *monopolies*
@@ -275,8 +350,8 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- Latin America -> "*Big Brother*" policy -> James G. Blaine
 		- Opened up markets to U.S.
 - ### Laissez-faire
-	- Government to keep hands off economy
-	- Dominant economic philosophy => very little govt. regulation of industries
+	- **Government to keep hands off economy**
+	- *Dominant economic philosophy* => <u>very little govt. regulation of industries</u>
 - ### Expansion of Industrial Workforce
 	- **Internal Migration** => farmers -> cities for factory work
 	- **International Migration** => "New" Immigration, predominantly Southern & Eastern Europe, + China
@@ -306,29 +381,31 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- APA => like Know Nothing Party, aimed to limit immigrants, keep Catholics from holding office
 		- 2nd Gen. immigrants assimilated more than parents
 			- Public schools only taught English
+- ### Asian Immigration
+	- Caused increase in **Nativism** -> **Chinese Exclusion Act**
 ## Labor Organizations
 - ### Labor vs. Management
 	- Battled over wages + working conditions
 	- Local & National unions emerged *to confront businesses*, improve working conditions, and improve wages
 - ### Knights of Labor
 	- Terrance Powderly
-	- Skilled & Unskilled workers, women, African Americans
+	- <u>Skilled & Unskilled workers</u>, women, African Americans
 	- **Downfall**: Haymarket Square Riot
 - ### American Federation of Labor
 	- Samuel Gompers
-	- Skilled workers *only*, focused on "bread and butter" issues
-- ### Challenges
+	- <u>Skilled workers *only*</u>, focused on "bread and butter" issues
 ## The New South
 - Created out of desire to industrialize
 	- Henry Grady
 	- Textile factories appear in south
 - Sharecropping & tenant farming remained throughout south
 	- Many African Am. were sharecroppers throughout the 1800s
+- **South remained mostly agrarian**
 - ### New developments
 	- Industrialize => improved railway system, move to cities
 		- Steel, lumber, & textile factories
 	- COCA COLA
-- ### What stayed the same
+- ### *What stayed the same*
 	- **Racial Inequality**
 		- Sharecropping, Jim Crow Laws
 			- Poll tax, literacy tests, grandfather clause
@@ -345,18 +422,12 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- **Colored Farmers' Alliance**
 			- mainly in Southern US
 			- made in response to Southern Farmers' Alliance
-- ### Goals
+- ### Goals/ **Omaha Platform**
 	- *Stronger Government* role in economic system
-	- caused by *Corporate power* & *Economic instability*
-	- want *Graduated income tax*
+		- caused by *Corporate power* & *Economic instability*
+	-  *Graduated income tax*
 	- inflation of currency to help farmers -> "free-silver"
-	- Political reform -> direct election of senators, govt. ownership of RRs, telephones, & telegraph
-- ### Advocacy
- ## Free Silver
-- ### Impacts
-## Railroads
-- ### Motives
-- ### Government Development
+	- Political reform -> direct election of senators, <u>govt. control of RRs, telephones, & telegraph</u>
 ## Booker T. Washington & W.E.B. Du Bois
 - ### Racial Injustice Resistance Methods
 	- #### Washington
@@ -387,7 +458,7 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - Also somewhat dislike charity
 - Upheld *Social Darwinism* ideas
 ## Social Gospel
-- Christian
+- **Protestant Church movement, sought to end social issues in cities**
 - Soup kitchens
 - YMCA? Salvation Army?
 - Kind of opposite of Gospel of Wealth
@@ -428,6 +499,8 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - Used to justify elites' success
  ![[Pasted image 20260223204154.png]]
 # PERIOD 7: 1890-1945
+<span style="color:pink">1890 ="Closing" of the frontier -> overseas expansion, 1945 = End of WWII, shift in US policy</span>
+**US Expansion overseas, Progressive Era, WWI and WWII, Great Depression**
 ## Chapter 20
 ### Progressive Goal Topics
 - Progressives tended to be *urban, middle class women*
@@ -437,7 +510,7 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- Businesses -> *Clayton Anti-Trust Act*
 		- Economy -> Federal Reserve
 		- Environment -> *Teddy Roosevelt*, John Muir
-		- Expand Democracy -> Initiative, *referendum, recall* (17th & 19th Amendments)
+		- **Expand Democracy** -> Initiative, *referendum, recall* (17th & 19th Amendments)
 ### Progressive Era 
 - ### Reasons for happening
 	- Political corruption
@@ -464,18 +537,19 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- Robert La Follette -> initiative, referendum, recall (Wisconsin Idea)
 ## Chapter 21
 ### Expansion Overseas
-- ### Reasons for:
-	- "Closing" of the frontier
-	- Economic Motives
-	- Racial Theories
-- ### Impacts
-	- *Spanish-American* War
-	- U.S. gained Guam, Puerto Rico, Philippines
-		- *protracted insurrection in the Philippines*
-	- Debates between imperialists & anti-imperialists
+- #### Reasons for:
+	- "Closing" of the frontier -> Frederick Jackson Turner
+	- Economic Motives -> $ for Businesses
+	- Racial Theories -> "White Man's Burden"
+- #### Impacts
+	- ***Spanish-American* War**
+		- U.S. gained Guam, Puerto Rico, Philippines
+		- *long-lasting insurrection in the Philippines*
+	- Debates between imperialists & anti-imperialists 
+		- (Teddy Roosevelt, McKinley vs. William Jennings Bryan, Anti-Imperialist League)
 		- (similar to interventionists vs isolationists)
 ### World War I
-- U.S. initially neutral
+**U.S. initially neutral, play limited role** (Wilson sought to "Make the world safe for Democracy")
 - ### Criticism for Joining
 	- Want to stay out of foreign affairs
 	- Isolationists opposed involvement
@@ -486,14 +560,16 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- More opportunities for women & African Am.
 	- *Great Migration*
 - ### Treaty of Versailles & League of Nations
-	- *Wilson's 14 Points* heavily influence Treaty
-		- not the part about punishment of Germany
+	- Wilson, and by proxy the US, have **strong involvement in postwar negotiations**
+		- *Wilson's 14 Points* heavily influence Treaty
+			- not the part about punishment of Germany though
 	- The U.S. did *not* join the League of Nations
-		- Washington's farewell address was not listened to
+		- Washington's farewell address was not listened to...
 ### Great Migration
 - ### Causes
-	- Industrial *job opportunity* in North during the war
-		- Gave freedom to flee from the South
+	- **Economic Opportunity
+		- Industrial *job opportunity* in North during the war
+			- Gave freedom to flee from the South
 - ### Opposition
 	- African Am. face racism & violence in North as well
 		- still stay in North
@@ -503,12 +579,19 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- Causes -> *Russian Revolution*, labor unrest, immigrants
 	- Effects -> Suppression of radicals, *Immigrant quotas* (1921-1924)
 		- Quotas later overturned in 1965
+	- **Quota Acts of 1920s**
+		- *Highly restrictive*
+		- Aimed at "new" immigrants
 - ### Impacts of Technologies
 	- Improved *standard of living, personal mobility, communication*
+	- Car, refrigerator, radio
 - ### Conflicts
-	- Fundamentalist Christianity v. Scientific modernism (Scopes Trial)
+	- *Tradition vs. Innovation*
+	- *White vs. Black* -> "Red Summer"
+	- *Idealism vs. Disillusionment* -> Lost Generation
+	- *Fundamentalist Christianity v. Scientific modernism* -> Scopes Trial
 		- Scopes trial -> debated legality of teaching evolution in public schools, didn't change teaching but had culture affect
-	- Native-born v. new immigrants
+	- *Native-born v. new immigrants* -> Quota Acts
 - ### Black Pride Movement
 	- Harlem Renaissance (1920s-30s)
 		- Jazz, art, writing
@@ -531,34 +614,41 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - ### Great Depression
 	- Led to calls for a stronger *financial regulatory system*
 - ### New Deal
+	- **Response to the Great Depression*
 	- 3 R's => *Relief, Recovery, Reform*
-	- Used earlier progressive ideas
+	- Influenced by *Progressive Ideas*
 - ### Challenges to New Deal
-	- Supreme Court -> Packing Plan, radicals (Huey Long)
+	- Supreme Court sought to limit -> Packing Plan,
+	- Want more reforms -> Huey Long, Father Charles Townshend
 - ### Impacts of the New Deal
 	- Legacy of reforms & agencies (*Social Security*, FDIC
 	- **Political realignment** -> African Am. & Unions *begin to vote Democratic*
+	- <u> Did NOT completely overcome the Great Depression</u>
 ## Chapter 24
 ### World War II
 - U.S. "neutral" *until* Pearl Harbor
-- Mass mobilization of economy -> end Great Depression -> opportunities for women + minorities
+- Mass mobilization of economy -> **end Great Depression** -> opportunities for women + minorities
+- Encouraged immigration from Mexico -> *Bracero Program*
 - ### Wartime Experiences
-	- *Japanese Internment*
+	- *Japanese Internment* -> Executive order
 	- Debates over race and segregation -> *Double V Campaign*, Zoot Suit Riots
 - ### Decision to Drop the Atomic Bomb
 	- Why? to save American lives, end war quickly, etc. etc.
 - ### Why did U.S. + Allies Win?
-	- Committed to democracy
-	- Technological Advancements -> Manhattan project
+	- Political and Military cooperation -> *Atlantic Charter*
+	- Technological Advancements -> *Manhattan project*
 	- Industrial Production (U.S.)
 - ### U.S. Post-War
-	- *Emerged as the most powerful nation*, influences post-war decisions
-		- Europe in ruins, U.S. suffers no physical damage
+	- *Emerged as a superpower*, influences post-war decisions
+		- Europe & Asia in ruins, U.S. suffers no physical damage
 # PERIOD 8: 1945-1980
+<span style="color:pink">1945 = End of WWII, shift in US foreign policy, 1980 = Election of Ronald Reagan, emergence of a conservative movement</span>
+**Cold War -> Korean & Vietnam War, Civil Rights, Gay Rights, Women's Rights, The Great Society, Watergate, Middle East**
 ## Post-WWII Economy
 - Economy prospering
 	- Why? => Federal spending, baby boom, tech developments
-	- Impacts? => *Improved higher education* (**G.I. Bill**), "Sun Belt" (South, east & west, opposite of Rust Belt (New York -> Midwest))
+	- Impacts? => *Improved higher education* (**G.I. Bill**), **"Sun Belt"** (South, east & west, opposite of **Rust Belt** (New York -> Midwest))
+		- Movement from North (Rust Belt) to South (Sun Belt) during this era
 - Challenges to conformity
 	- Artists -> Beat Generation
 		- Precursor to Hippies/60s-70s Counterculture
@@ -567,22 +657,24 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 ### U.S. Foreign Policy
 - **Containment** -> George Kennan
 	- U.S. sought to prevent spread of communism
-	- Reflected in:
-		- *Collective Security* (NATO)
-		- Economic Frameworks -> Truman Doctrine, Marshall Plan
-		- Conflicts -> Korean and Vietnam Wars
-			- North = Communist in both!
-		- **Détente** and <u>indirect confrontation</u>
-			- SALT vs. Cuban Missile Crisis
+		- Reflected in:
+			- *Collective Security* (NATO)
+			- **Truman Doctrine, Marshall Plan** -> provide $ to European countries to resist communism
+			- Conflicts -> Korean and Vietnam Wars
+				- North = Communist in both!
+			- **Détente** and <u>indirect confrontation</u>
+				- SALT treaties vs. Cuban Missile Crisis
 - Cold War impact on other nations
 	- U.S. & U.S.S.R seek allies in decolonized nations -> India
-	- Latin America -> U.S. support non-Communist govts., <u>even if they weren't democratic</u>
+	- **U.S. support non-Communist govts., <u>even if they weren't democratic</u>**
+		- Iran, Batista in Cuba, South Vietnam
 	- U.S. involvement in the Middle East -> **1973 Oil Embargo** -> *1st Oil Crisis*
 
-## Cold War Domestic Issues
+## Cold War Domestic Issues/ Homefront
 - *Both parties support containing communism*
 	- BUT debates started over how to rid Communists from the country
-		- **McCarthyism**, Red Scare, HUAC, Rosenbergs, etc.
+		- **McCarthyism**, **Red Scare**, HUAC, Rosenbergs, etc.
+			- Truman's Loyalty Oath
 	- **Korean War** -> Some domestic opposition
 	- **Vietnam War** -> Large-scale protests, sometimes violent
 		- Anti-war movement grew post-**Tet Offensive** (1968) and after bombing of *Cambodia* (1970)
@@ -594,11 +686,16 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - ***All 3 Branches of Govt. Promoted Civil Rights***
 	- Executive => **E.O. 9981** -> Desegregated Military (Truman)
 	- Judicial => **Brown v. Board**
-	- Legislative => **Civil Rights Act of 1964**
+	- Legislative => **Civil Rights Act of 1964** (ended segregation)
 - White resistance to desegregation:
 	- *Southern Manifesto* -> Local officials ignore desegregation and civil rights acts
-	- Little Rock 9
-- Debates among activists post-*1965* -> Black Power (**Black Panther Party**)
+	- Little Rock, HS
+- Activists' methods of fighting segregation:
+	- Legal challenges
+	- direct action
+	- nonviolent protests
+- Debates among activists over philosophies post-*1965* -> Black Power (**Black Panther Party**)
+	- Nonviolent vs. militant action?
 ## Rights for Other Groups/Other Social Issues
 - **Women's Rights**
 	- Betty Friedan's *The Feminine Mystique* -> Challenged 50s "Cult of Domesticity"
@@ -618,9 +715,13 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 		- End Discrimination -> Civil Rights Act of '64, Voting Rights Act of '65
 		- *War on Poverty* -> food stamps, *Medicaid*, Medicare
 		- Fix Other Social Issues -> Education
-- *1960s Supreme Court promoted **individual freedoms*** 
-	- *Griswold v. Connecticut* -> Established "Right to Privacy"
-	- Helped inspire conservative movement
+		- Based on the 
+- **1960s Supreme Court promoted** ***individual freedoms*** 
+	- *Griswold v. Connecticut* -> Established <u>"Right to Privacy"</u>
+	- *Miranda v. Arizona* -> incr. rights of the accused
+		- Arrested people have to be made aware of constitutional rights (Miranda Rights)
+- Impact of Great Society & Supreme Court decisions?
+	- <u>Helped inspire conservative movement</u>
 - <U>Those on the left did not see liberalism as going far enough to change society radically and economically</u>
 	- Left -> Black Panthers, Students for a Democratic Society (SDS)
 ## Demographics and Counterculture
@@ -632,14 +733,18 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- Sexual Revolution -> "Free Love"(?)
 - Conservative vs. Liberal debates
 	- *Bakke v. University of California* -> Overturned quotas for minority applicants
-### Immigration and Environmentalism
+## Immigration
 - **Immigration Act of 1965**
 	- End 1920s quota system (1921 & 24)
 	- Favored Asian & Latino immigration, which were traditionally underrepresented
+## Environmentalism
+could be related to Period 6 & 7...
 - Rachel Carson's *Silent Spring*
-	- Garnered awareness of environmental problems
+	- Garnered awareness of environmental problems -> dangers of pesticides
 	- Helped lead to the creation of the EPA, Clean Air Act, etc.!
 # PERIOD 9: 1980-PRESENT
+<span style="color:pink">1980 = Election of Ronald Reagan -> emergence of conservative movement, Present = Today!</span>
+**end of the Cold War, Ronald Reagan, Conservative movement, Terrorism**
 ## Policy Debates Regarding Various Issues
 - *North American Free Trade Agreement* (**NAFTA**) -> Rid N.A. countries of *tariffs*
 	- *World Trade Organization* (**WTO**)
@@ -662,11 +767,31 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 - Reduce Taxes
 - Law and Order
 - Morality (Religious Right)
+## What invigorated conservatism?
+- *Economic Problems* -> 1970s inflation
+- Growth of *Religious Fundamentalism*
+- Public's loss of faith in govt. to solve problems(?)
+- *Foreign Policy Failures*
+	- **Iran Hostage Crisis** - 1979-Jan. 1981
+		- Reaction to the US assistance of the deposed Shah of Iran
+## Conservative Victories?
+- *Taxation* -> taxes reduced
+	- **Reaganomics**/"trickle-down" economics
+- *Deregulation of industries*
+	- Govt. less involved in industries
+- Conservatives <u>were not as successful</u> with *moral ideals*
+	- Abortion *remained legal*
+- Denouncing *"Big Government"*
+	- Even though conservatives favored *small government*, it continued to grow after 1980
+		- Hard to eliminate popular programs -> **Medicare**, *Social Security*, etc.
 ## Impact of Technology
 - Incr. in digital communications -> computers, email, phones, etc.
 	- => **Globalization**
 ## Economy Since 1980
 - 1985 -> U.S> Debtor vs Creditor
+- Decreasing in *manufacturing and union jobs*
+	- Outsourcing
+- Debates over Free Trade agreements (**NAFTA**) and size of "safety nets" (**Social Security Reform**)
 - Japanese imports -> "Buy American!"
 - Service industry (Amazon, McDonalds, etc.) vs. Industry (*Deindustrialization*)
 - **Demographic Changes**
@@ -680,7 +805,9 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- Reagan -> to fight Communism & overpower Soviet economy
 - Reagan initially tough on Communism, oppose Nixon's *détente*
 	- *Bellicose rhetoric* -> hostile speech, aggression
+		- "*Evil Empire*"
 	- 2nd term -> Improved relations w. Gorbachev
+		- => Arms reductions
 - *glasnost* & *perestroika*
 	- Reform -> improve Soviet econ.
 	- Morale -> Incr. freedoms
@@ -699,10 +826,17 @@ PEEP -> Pontiacs Rebellion, End of 7 Years War, End of Salutary Neglect, Proclam
 	- *Desert Storm* -> Combat phase, began w/ aerial, navy assault
 		- Cease fire 100hrs after ground troops deployed to Iraq
 	- UN sanctions -> destroy missiles, WMD's
+## War on Terrorism
 - After Al Qaida 9/11 attacks (WTC, Pentagon, PA)
 	- U.S. foreign policy now focused on *fighting terrorism globally*
-		- Afghanistan -> Response to Taliban holding Osama bin Laden
+		- War in Afghanistan -> Response to Taliban holding Osama bin Laden
 			- => Long conflict (2001-2021)
-		- Iraq -> U.S.-led attack against Saddam Hussein
+		- War in Iraq -> U.S.-led attack against Saddam Hussein
 			- Suspected Hussein to have WMDs, terrorist connections
-
+## Impact of War on Terrorism
+- Debates over civil liberties vs. govt. power (<u><i>continuing theme throughout history</i></u>)
+	- Similar to Sedition Acts
+## Homosexuals
+- **Don't Ask, Don't Tell**
+	- Banned openly gay people from serving in military (*1994*)
+	- Later overturned in *2011*

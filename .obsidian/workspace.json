@@ -8,35 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "813fcd9b70a7abcc",
+            "id": "e9297af6109ff37f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Violet's Notes/SEMESTER 2/Unit 9/UNIT 9 REVIEW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UNIT 9 REVIEW"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "f038cdc9030bd753",
+            "id": "ccbe2681ba56d887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Violet's Notes/EVERYTHING REVIEW (Copy Pasted).md",
+                "file": "Violet's Notes/Political Parties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVERYTHING REVIEW (Copy Pasted)"
+              "title": "Political Parties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Progressive Era",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e3d49ccedc4265b",
@@ -185,40 +181,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d81eefdcc66e181",
+  "active": "e9297af6109ff37f",
   "lastOpenFiles": [
-    "Violet's Notes/SEMESTER 2/Unit 9/UNIT 9 REVIEW.md",
+    "Violet's Notes/Native American Policy.md",
+    "Violet's Notes/Decade Timeline.md",
+    "Violet's Notes/Political Parties.md",
+    "Violet's Notes/Key Court Cases.md",
     "Violet's Notes/EVERYTHING REVIEW (Copy Pasted).md",
-    "Violet's Notes/SEMESTER 2/Unit 8/UNIT 8 REVIEW.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/UNIT 7 REVIEW.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Unit 6 REVIEW.md",
-    "Violet's Notes/SEMESTER 1/Unit 2/APUSH REVIEW Key Concept 2.2 & 2.2,1.md",
-    "Violet's Notes/SEMESTER 1/Unit 2/9.24.25 Salutary Neglect Presentation Notes.md",
-    "Violet's Notes/SEMESTER 1/Unit 2/10.1.25  Unit 2 (1607-1754) Exam Topics (Chapters 2-4).md",
-    "Violet's Notes/SEMESTER 1/Unit 2/Chapter 4 AP Text Topics (Completed).md",
-    "Violet's Notes/SEMESTER 2/Unit 9/Chapter 30/4.21.26 Unit 9 Notes.md",
-    "Violet's Notes/SEMESTER 1/SEMESTER 1 REVIEW.md",
-    "Violet's Notes/SEMESTER 2/Unit 9/Chapter 30/4.8.26 Reagan 1980s Politics.md",
-    "Violet's Notes/How to write a LEQ.md",
+    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 21/Progressive Era Overview.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.12.2026 The End of Reconstruction.md",
+    "Violet's Notes/SEMESTER 1/Unit 5/Chapter 15/1.8.26 Post-War Challenges.md",
+    "Jack's Notes/Unit 3/UNIT 3 REVIEW.md",
+    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10/11.21.25 The Nullification Crisis.md",
+    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 7 Part II/11.7.25 Jefferson's Foreign Policy.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 7 A New Republican Government/10.29.25 Foreign Policy & Politics in the New Republic Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 7 A New Republican Government/10.24.25 Hamilton's Financial Plan.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 6 Making War and Republican Governments/Creating a Constitution.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 6 Making War and Republican Governments/10.22.25 Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 6 Making War and Republican Governments/Relevant Stuff for Quiz.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 6 Making War and Republican Governments/10.21.25 Shays' Rebellion.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 7 A New Republican Government/U.S. American Indian Policy Presentation Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 6 Making War and Republican Governments/10.20.25 Issues of Governing, etc. Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 5 Toward Independence 1763-1776/10.14.25 Road to War Notes KNOW Cause & Effect Significance.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 5 Toward Independence 1763-1776/10.9.25 Significance of the French and Indian War.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Unit 3 REVIEW bullshit.md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Unit 3 Test Question Concepts (Chapters 5, 6, 7.1-7.2B).md",
+    "Violet's Notes/SEMESTER 1/Unit 3/Chapter 5 Toward Independence 1763-1776/10.13.25 Taxes - Colonial Resistance Presentation Notes.md",
+    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 10/11.24.25 2nd Party System Notes.md",
+    "Jack's Notes/Unit 4/Jackson and the Indian Removal Act.md",
     "Violet's Notes/SEMESTER 2/Unit 9/Chapter 30",
     "Violet's Notes/SEMESTER 2/Unit 9",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 29/4.1.26 1970s Politics.md",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 27/3.27.26 Black Power.md",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 28/LBJ's Great Society.md",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 28/3.31.26 Vietnam Overview.md",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 29/ERA Amendment.md",
     "Violet's Notes/SEMESTER 2/Unit 8/Chapter 29",
     "Violet's Notes/SEMESTER 2/Unit 8/Chapter 28",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 25/3.25.26 Civil Rights Events (1960s).md",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 26/Postwar Prosperity and the Affluent Society Notes.md",
     "Violet's Notes/SEMESTER 2/Unit 8/Chapter 27",
     "Violet's Notes/SEMESTER 2/Unit 8/Chapter 26",
-    "Violet's Notes/SEMESTER 2/Unit 8/Chapter 25/3.23.26 Key Cold War Events.md",
-    "conflict-files-obsidian-git.md",
-    "Jack's Notes/Unit 7/WWI.md",
-    "Jack's Notes/Unit 7/WWII @ Home.md",
-    "Jack's Notes/Unit 7/Unit 7 Overview.md",
-    "Jack's Notes/Unit 7/The Progressives.md",
     "Jack's Notes/Unit 7",
     "Violet's Notes/SEMESTER 2/Unit 8/Chapter 25",
     "Violet's Notes/SEMESTER 2/Unit 8",
