@@ -1,0 +1,123 @@
+d# Unit 4:
+- **Federalists and Dem. Republicans**:
+	- First political parties -> formed in response to Hamilton's financial system
+	- Fedsts:
+		- Upper class
+		- Loose interpretation of Constitution
+		- Favored Merchants -> Pro-British (trade)
+	- Dem. Rep:
+		- Commoners
+		- Strict Constitution
+		- Pro-French
+		- Favored Farmers
+- **Democrats and Whigs**:
+	- 2nd Party System -> ALL white men could vote
+	- Democrats:
+		- Party of the Common man
+		- Favored Universal White male suffrage
+		- Spoils system
+		- lower tariffs
+	- Whigs
+- **Louisiana Purchase** -> beginning of Manifest Destiny
+	- Doubled size of U.S.
+	- Jefferson switched from strict to loose interpretation of constitution
+- **The Supreme Court in early 1800s**:
+	- Gibbons v. Ogden:
+		- S. Court ruled that Fed. Govt. controls interstate trade, not the states
+	- Many S. Court decisions favored the Fed. Govt.
+- **Slavery:**
+	- Defended in the South -> Positive Good
+- **Immigration**:
+	- First Wave
+	- Largely from Germany and Ireland
+- **New Technology**:
+	- *Textile Machinery*
+	- *Steam Engines*
+		- Let boats go against current
+	- Eli Whitney
+		- *Interchangeable parts*
+		- *Cotton Gin*
+	- *Canals* -> Erie, More Shipping
+	- *Railroads* -> Funded by private company
+	- *Telegraph*
+	- Agricultural Inventions
+		- *Steel Plow*
+		- *McCormick Reaper*
+- **Henry Clay's American System**:
+	- Sought to Unify Natl. Econ.
+	- 3 Parts: -> *BIT*
+		- Bank of US
+		- Internal Improvements
+		- Tariffs to fund ^
+	- Benefitted North more than South
+- **Sectional Tensions Grow**:
+	- Politicians begin to care more about what's best for their region, not the country.
+	- *Fed. Govt. Tries to Assert Authority over States*
+		- Hartford Convention
+		- Nullification Crisis:
+			- SC tries to nullify Tariffs that the Fed. Govt. puts in place
+			- Threatens to Secede
+- **Missouri Compromise**:
+	- Added ME as a free state (formerly part of MA)
+	- Added MO as Slave State
+
+# Unit 5:
+- **Manifest Destiny**:
+	- Belief that it's U.S.'s God-Given right to expand
+	- Built on Racial Superiority and White Supremacy
+	- Political Debates focused on this issue -> 1844 election - Clay v. Polk
+- **Mexican American War**:
+	- Gave the rest of the continental U.S.
+	- Wilmot Proviso -> all new states are free
+- **Asia**:
+	- U.S. wanted to spread trade
+	- Mathew Perry in Japan -> ended isolation
+- **Old immigrants**:
+	- Nativist movement
+		- Anti-Irish, Anti-Catholic
+- **Legislation promoting development**:
+	- Homestead Act - 160 acres of land
+		- Encouraged westward settlement
+	- Morill Land Grand - sold land and provided $ for colleges
+- **Abolitionists**:
+	- Small portion of the North -> Very visible
+	- Many Methods against slavery:
+		- Arguments - William Lloyd Garrison
+		- Helping Slaves run away - Underground RR
+		- Violence - John Brown
+- **Proposals to Resolve Issue of Slavery**:
+	- **Compromise of 1850 (Henry Clay)**
+		- Created to address the land from Mexican Cession
+		- 5 Parts
+		- *LEAD TO FUGITIVE SLAVE ACT* 
+	- **Kansas Nebraska Act**:
+		- Steven Douglas wanted to build RR through the Nebraska territory
+		- Allowed popular sovereignty for Kansas and Nebraska on Slavery
+		- Lead to Bleeding Kansas
+	- **Dred Scott Case**:
+		- Ruled that Slaves weren't citizens
+- **Election of 1860**:
+	- Lincoln Ran on free-soil platform
+	- He won, despite not having votes from a single southern state
+	- Lead to Southern Secession -> start of Civil War
+- **The Civil War**:
+	- Emancipation Proclamation -> Freed Slaves (not in Union states)
+		- Changed purpose of War (Freedom)
+		- More Black soldiers joining the war
+		- Helped keep Europe from aiding the South
+	- Why did the North win?
+		- Military Leadership -> Grant and Sherman
+		- Strategies -> Anaconda Plan, March to the Sea
+- **13th Amendment**:
+	- 1865 -> Abolished Slavery
+	- S' tried to get around it with *Sharecropping*
+- **14th Amendment**:
+	- Granted Citizenship to African Americans
+	- Also Birthright Citizenship
+- **15th Amendment**:
+	- Provided suffrage for ALL adult males
+	- Split Women's Rights groups
+- **Southern Reactions**:
+	- Segregation -> Jim Crow
+	- Violence -> KKK, the White league, Lynching
+	- Local Political Tactics -> poll taxes, literacy tests, grandfather clauses

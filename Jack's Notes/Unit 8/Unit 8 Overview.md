@@ -1,0 +1,11 @@
+- **1945 - 1980**:
+	- 1945 -> end of WW2
+	- 1980 -> Reagan elected president
+- **Topics:**
+	- The Cold War -> US impacts
+	- 1950's
+	- Civil Rights Movement and Racial Progress
+	- Vietnam War
+	- LBJ's Great Society Programs
+	- 1970s
+- **BIG UNIT** -> and makes up a lot of the test grade 

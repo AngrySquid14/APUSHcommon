@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc9d146a05c3cec5",
+        "id": "5bc3777f40c5e06d",
         "type": "tabs",
         "children": [
           {
-            "id": "b49cdbfd84ee30c3",
+            "id": "0a9bcea381a64ce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jack's Notes/Unit 6/The Populist Party and Agriculture Innovation in the late 1800s.md",
+                "file": "Jack's Notes/Unit 3/UNIT 3 REVIEW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Populist Party and Agriculture Innovation in the late 1800s"
-            }
-          },
-          {
-            "id": "d13a70e8fdd6a63d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 7/Unit 7 Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 7 Overview"
-            }
-          },
-          {
-            "id": "7f12f635de8d9007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 7/The Progressives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Progressives"
-            }
-          },
-          {
-            "id": "e810758cc39ecf14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 7/WWI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WWI"
-            }
-          },
-          {
-            "id": "1c96ed89cc1859cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 7/The Great Depression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Great Depression"
-            }
-          },
-          {
-            "id": "2b9515f993a14bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack's Notes/Unit 7/WWI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WWI"
+              "title": "UNIT 3 REVIEW"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,50 +183,51 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "2b9515f993a14bb2",
+  "active": "0a9bcea381a64ce8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Jack's Notes/Unit 3/George Washington's Farewell Address.md",
+    "Jack's Notes/Unit 3/Road to War.md",
+    "Jack's Notes/Unit 3/Unit 3 Intro.md",
+    "Jack's Notes/Unit 3/SAQ Brainstorm.md",
+    "Jack's Notes/Unit 3/UNIT 3 REVIEW.md",
+    "Jack's Notes/Unit 3/Colonial Resistance.md",
+    "Jack's Notes/Unit 2/Salutary Neglect Lecture.md",
+    "Jack's Notes/Unit 2/Great Awakening and Enlightenment.md",
+    "Jack's Notes/Unit 2/Readings/Great Awakening Readings.md",
+    "Jack's Notes/Review/Political Parties Review.md",
+    "Jack's Notes/Unit 5/Lincoln's Leadership in the Civil War.md",
+    "Jack's Notes/Unit 5/Resistance to War.md",
+    "Jack's Notes/Unit 5/Chapter 16 Overview.md",
+    "Jack's Notes/Unit 4/The 1st Wave of Immigration.md",
+    "Jack's Notes/Review/Native Policy Review.md",
+    "Jack's Notes/Review/Units 4-5 Review.md",
+    "Untitled.md",
+    "Jack's Notes/Unit 4/Jackson and the Indian Removal Act.md",
+    "Jack's Notes/Unit 4/Expansion of Slavery and Life in the North.md",
+    "Jack's Notes/Unit 4/Early 1800s politics.md",
     "Jack's Notes/Unit 7/WWI.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 21/Progressive Era Overview.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 21/U.S. Imperialism.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 23/3.9.26 The Roaring Twenties.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 21/3.2.26 Teddy Roosevelt.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 21/3.3.26 War With Spain.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 22/WWI Measures.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 22/Consequences of U.S. Involvement in WWI.md",
-    "Violet's Notes/SEMESTER 2/Unit 7/Chapter 22/3.5.26 WWI Background.md",
+    "Jack's Notes/Unit 7/The Great Depression.md",
+    "Jack's Notes/Unit 4/Unit 4 Review.md",
+    "Jack's Notes/Unit 4/The Market Revolution.md",
+    "Jack's Notes/Unit 4/Andrew Jackson and the Nullification Crisis.md",
+    "Jack's Notes/Unit 4/African American Communities and the Missouri Compromise.md",
+    "Jack's Notes/Review",
+    "Untitled.canvas",
+    "Jack's Notes/Unit 9",
+    "Jack's Notes/Unit 8",
     "Violet's Notes/SEMESTER 2/Unit 7/Chapter 23",
     "Violet's Notes/SEMESTER 2/Unit 7/Chapter 21",
     "Violet's Notes/SEMESTER 2/Unit 7/Chapter 22",
     "Violet's Notes/SEMESTER 2/Unit 7",
-    "Violet's Notes/SEMESTER 2/Unit 6/Unit 6 REVIEW.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 20/Progressive Reforms (Progressive Era Chart).md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 20/2.12.26 Gilded Age Farmers, Populist Party.md",
     "Violet's Notes/SEMESTER 2/Unit 6/Chapter 20",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 19/Response to Gilded Age Immigrants.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 19/2.10.26 The Industrial City (Slums) & Political Machines.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 19/2.10.26 Political Machines.md",
     "Violet's Notes/SEMESTER 2/Unit 6/Chapter 19",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 18/Gospel of Wealth.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 18/2.9.26 Chapter 18 Review.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 18/2.6.26 Plessy V. Ferguson.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 18/2.6.26 Black Woman Activism.md",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 18/2.5.26 Black Leadership Perspectives.md",
     "Violet's Notes/SEMESTER 2/Unit 6/Chapter 18",
-    "Violet's Notes/SEMESTER 2/Unit 6/Chapter 17/2.3.26 Immigration Overview.md",
     "Pictures/Pasted image 20260309090255.png",
     "Pictures/Pasted image 20260305094710.png",
     "Pictures/Pasted image 20260302092409.png",
     "Pictures/Pasted image 20260223204220.png",
     "Pictures/Pasted image 20260223204154.png",
     "Pictures/Pasted image 20260123100008.png",
-    "Pictures",
-    "Jack's Notes/Unit 7/WWII @ Home.md",
-    "Jack's Notes/Unit 6/Social Darwinism and The Gospel of Wealth.md",
-    "Jack's Notes/Unit 6/Late 1800s Indian Policy.md",
-    "Jack's Notes/Unit 7/The Great Depression.md",
-    "Jack's Notes/Unit 7",
-    "Violet's Notes/SEMESTER 1/Unit 4/Chapter 9",
     "Resources/Pasted image 20260123100008.png",
     "Resources/Pasted image 20251104090740.png"
   ]
