@@ -1,0 +1,50 @@
+# Impacts on Society
+- ### CCC
+	- Civilian Conservation Corps
+		- Allowed single men ages 18-25 to enlist in *work programs*
+		- goal: to improve America's public lands, provide relief
+- ### AAA
+	- Agriculture Adjustment Act
+		- goal: boost agricultural prices by reducing surplus of key crops
+			- Pay farmers to limit production
+		- didn't help sharecroppers
+- ### WPA
+	- Works Progress Administration
+		- Employ jobseekers to do public works projects
+			- build schools, hospitals, bridges, etc.
+- ### "A People's Democracy"
+	- **Organized Labor**
+		- Union membership @ 23%
+		- Congress of Industrial Organizations/CIO -> organize all workers within an industry *regardless of skill level*
+- ### Women
+	- Gender inequalities persist
+	- Elanor Roosevelt transformed image of first lady, more active than past ones
+	- Women paid less than men
+	- CCC -> didn't let women join
+- ### African Americans
+	-  Resettlement Administration -> help small farmers buy land
+	- African Americans *begin to vote Democrat overwhelmingly*
+	- CCC -> segregated
+	- Lynching persisted
+	- AAA did not help sharecroppers b/c *payment was given to landowners*
+- ### Indian Policy
+	- **Indian Reorganization Act**
+		- Reversed assimilation policy of *Dawes Act*
+		- Many natives given religious freedom
+- ### The West
+	- Mexican Americans -> benefit from WPA & CCC
+		- did mostly farm work
+	- Japanese Americans -> Parents couldn't own land, but American-born Japanese could
+		- Depression crop prices -> 20% return to Japan
+	- Chinese excluded from New Deal Programs b/c denied citizenship
+	- Filipinos -> Work on corporate farms, after independence immigration slowed dramatically
+- ### Environment
+	- *The Dust Bowl*
+		- TL;DR Great Plains super windy & overcultivated, farmers dip
+- ### Tennessee Valley Authority
+	- Flood control, electricity development
+	- Provide electricity to many farms, homes, factories
+	- *Rural Electrification Administration* -> Provide electricity to rural areas
+- ### Grand Coulee Damn
+	- Washington!
+	- Biggest electricity producer in the world

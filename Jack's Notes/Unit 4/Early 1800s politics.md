@@ -10,7 +10,7 @@
 - Napoleon offered all of Louisiana for $15m
 - Doubled size of US
 	- Not just state of Louisiana
-- Jefferson switched to lose interperetation
+- Jefferson switched to lose interpretation
 
 #### War of 1812:
 - War with Great Britain
